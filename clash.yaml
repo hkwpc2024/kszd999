@@ -73,32 +73,7 @@ dns:
 proxies:
 - alterId: 0
   cipher: auto
-  name: 108.181.24.39_Claude
-  network: ws
-  port: 2082
-  server: 172.64.167.10
-  servername: ip26.6929198.xyz
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip26.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.39_OpenAI
-  network: ws
-  port: 2082
-  server: 190.93.247.127
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.39_OpenAI_Claude1
+  name: Americas😈github.com/Ruk1ng001_2
   network: ws
   port: 2082
   server: 104.19.21.230
@@ -111,9 +86,136 @@ proxies:
     headers:
       Host: ip3.6929198.xyz
     path: github.com/Alvin9999
+- cipher: aes-256-cfb
+  name: Asia😈github.com/Ruk1ng001_
+  password: f8f7aCzcPKbsF8p3
+  port: 989
+  server: 185.123.101.241
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_1
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.178
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_2
+  password: QCXDxuDlTTMD7jtgHUjIoj
+  port: 8080
+  server: beesyar.org
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_3
+  password: 4a2rfixophdjffa8KVA4Aa
+  port: 8080
+  server: 45.87.175.157
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_4
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: 45.87.175.181
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_5
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: beesyar.org
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_6
+  password: 4a2rfixophdjffa8KVA4Aa
+  port: 8080
+  server: 45.87.175.178
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_7
+  password: 4a2rfixophdjffa8KVA4Aa
+  port: 8080
+  server: 45.87.175.181
+  type: ss
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_10
+  password: amazonskr05
+  port: 443
+  server: 43.202.57.197
+  type: ss
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_12
+  password: amazonskr05
+  port: 443
+  server: 13.231.108.239
+  type: ss
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_14
+  password: amazonskr05
+  port: 443
+  server: 35.88.136.187
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Other😈github.com/Ruk1ng001_15
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: 45.87.175.157
+  type: ss
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_16
+  password: amazonskr05
+  port: 443
+  server: 44.244.25.243
+  type: ss
 - alterId: 0
   cipher: auto
-  name: 108.181.24.39_OpenAI_Claude2
+  name: Other😈github.com/Ruk1ng001_17
+  network: ws
+  port: 2086
+  server: 104.21.238.38
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
+  ws-opts:
+    headers:
+      host: e4-3.9447609.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_18
+  network: ws
+  port: 2086
+  server: 104.21.238.37
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
+  ws-opts:
+    headers:
+      host: e3-3.9447609.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_19
+  network: ws
+  port: 2082
+  server: fbi.gov
+  servername: ip30.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip30.6929198.xyz
+    path: github.com/Alvin9999
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_2
+  password: amazonskr05
+  port: 443
+  server: 3.39.240.246
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_20
   network: ws
   port: 2082
   server: 172.64.166.16
@@ -128,698 +230,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 108.181.24.39_OpenAI_Claude3
-  network: ws
-  port: 2082
-  server: 190.93.247.170
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.39_OpenAI_Claude4
-  network: ws
-  port: 2082
-  server: 190.93.246.178
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.39_OpenAI_Claude5
-  network: ws
-  port: 2082
-  server: 190.93.245.76
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.39_OpenAI_Claude6
-  network: ws
-  port: 2082
-  server: 190.93.244.64
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.39_OpenAI_Claude7
-  network: ws
-  port: 2082
-  server: russia.com
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.39_OpenAI_Claude8
-  network: ws
-  port: 2082
-  server: 190.93.244.228
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 108.181.24.55_OpenAI_Claude
-  network: ws
-  port: 2095
-  server: 172.64.198.249
-  servername: c3.6016725.xyz
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: c3.6016725.xyz
-    path: /github.com/Alvin9999
-- cipher: chacha20-ietf-poly1305
-  name: 157.175.154.107_OpenAI
-  password: Bog0ELmMM9DSxDdQ
-  port: 443
-  server: series-a2-me.varzesh360.co
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 193.29.139.179_OpenAI_Claude
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: 45.87.175.157
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 3.28.127.173_OpenAI
-  password: u17T3BvpYaaiuW2c
-  port: 443
-  server: series-a2-mec.varzesh360.co
-  type: ss
-- cipher: aes-256-cfb
-  name: 3.39.240.246_OpenAI_Claude
-  password: amazonskr05
-  port: 443
-  server: 3.39.240.246
-  type: ss
-- cipher: aes-256-cfb
-  name: 43.202.57.197_Claude
-  password: amazonskr05
-  port: 443
-  server: 43.202.57.197
-  type: ss
-- cipher: aes-256-gcm
-  name: 54.37.12.70_OpenAI
-  password: PCnnH6SQSnfoS27
-  port: 8090
-  server: 54.37.12.70
-  type: ss
-- name: 63.32.217.185_OpenAI_Claude
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 63.32.217.185
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: CA_Toronto_Amazon.com_OpenAI_Claude
-  password: '3648425794742788096'
-  port: 443
-  server: 35.182.64.76
-  sni: legal-oarfish.squid592.motorcycles
-  type: trojan
-- name: DE_Frankfurt am Main_Amazon Technologies Inc.
-  password: telegram-id-directvpn
-  port: 22222
-  server: 3.73.20.143
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: DE_Frankfurt am Main_Amazon Technologies Inc._Claude
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 3.74.251.200
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: DE_Frankfurt am Main_Amazon.com, Inc._OpenAI
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.158.30.72
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: DE_Frankfurt am Main_G-Core Labs S.A._OpenAI_Claude
-  network: ws
-  port: 8080
-  server: 104.17.237.149
-  servername: 77744514375675832169113469546324.v2line.net
-  skip-cert-verify: true
-  type: vmess
-  uuid: b224029a-8614-445b-b6f7-7dbad13b0c75
-  ws-opts:
-    headers:
-      Host: 77744514375675832169113469546324.v2line.net
-    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
-- name: FR_Paris_Amazon Technologies Inc._OpenAI
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 15.236.7.175
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: FR_Paris_Online S.A.S._OpenAI_Claude
-  password: fHMmtjH3MuKYWYvGEqQpdH
-  port: 443
-  server: 62.210.88.22
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: GB_London_Amazon.com_OpenAI1
-  password: W74XFALLLuw6m5IA
-  port: 443
-  server: series-a1.samanehha.co
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: GB_London_Amazon.com_OpenAI2
-  password: mps3FwmDjLrWaOVg
-  port: 443
-  server: series-a2.varzesh360.co
-  type: ss
-- name: IN_Hyderabad_Oracle Corporation
-  network: ws
-  port: 443
-  server: 172.66.47.19
-  servername: pardazeshvpn-tg85.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 76434743-2a94-4cfd-8170-8e3971419b36
-  ws-opts:
-    headers:
-      Host: pardazeshvpn-tg85.pages.dev
-    path: '/Telegram:'
-- alterId: 0
-  cipher: auto
-  name: IT_Lombardy_Global Connectivity Solutions LLP_Claude
-  network: http
-  port: 2098
-  server: 147.45.51.16
-  skip-cert-verify: true
-  type: vmess
-  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
-- cipher: aes-256-cfb
-  name: JP_Tokyo_Amazon Technologies Inc._OpenAI
-  password: amazonskr05
-  port: 443
-  server: 13.231.108.239
-  type: ss
-- cipher: aes-256-cfb
-  name: JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude1
-  password: amazonskr05
-  port: 443
-  server: 3.112.215.69
-  type: ss
-- cipher: aes-256-cfb
-  name: JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude2
-  password: amazonskr05
-  port: 443
-  server: 3.112.124.200
-  type: ss
-- name: KR_Seoul_Oracle Corporation_OpenAI
-  network: ws
-  port: 443
-  server: www.speedtest.net
-  servername: ntsafe.pages.dev
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39
-  ws-opts:
-    headers:
-      host: ntsafe.pages.dev
-    path: /?ed=2048
-- cipher: chacha20-ietf-poly1305
-  name: LV_Riga_Baxet Group Inc._OpenAI_Claude
-  password: 3MgIhqwp4pjM8SKwixNkYZ
-  port: 33068
-  server: 193.124.22.253
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude1
-  password: QCXDxuDlTTMD7jtgHUjIoj
-  port: 8080
-  server: beesyar.org
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude2
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude3
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: beesyar.org
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude4
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: 45.87.175.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude5
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.157
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude6
-  password: 1RWwXhwfAB5gAEozU4G2Pg
-  port: 8080
-  server: 45.87.175.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude7
-  password: 1RWwXhwfAB5gAEozU4G2Pg
-  port: 8080
-  server: 45.87.175.157
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: NL_Amsterdam_Greenhost BV_OpenAI_Claude8
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.164
-  type: ss
-- cipher: aes-128-cfb
-  name: NL_Rozendaal_NForce Entertainment B.V._OpenAI_Claude
-  password: shadowsocks
-  port: 443
-  server: 109.201.152.181
-  type: ss
-- cipher: aes-256-gcm
-  name: Other😈github.com/Ruk1ng001_
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 54.37.12.70
-  type: ss
-- cipher: aes-256-cfb
-  name: PL_Warsaw_Melbikomas UAB_OpenAI_Claude
-  password: GA9KzeEgvfxNrgmM
-  port: 9019
-  server: 217.30.10.18
-  type: ss
-- name: SE_Stockholm_Amazon Technologies Inc._OpenAI
-  password: telegram-id-directvpn
-  port: 22222
-  server: 13.49.147.117
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- cipher: aes-256-cfb
-  name: SG_Singapore_Amazon Technologies Inc_OpenAI_Claude
-  password: amazonskr05
-  port: 443
-  server: 47.128.215.67
-  type: ss
-- cipher: aes-256-cfb
-  name: SG_Singapore_Amazon.com, Inc._OpenAI_Claude
-  password: amazonskr05
-  port: 443
-  server: 52.77.209.61
-  type: ss
-- cipher: aes-256-cfb
-  name: TR_Istanbul_Iksir Internet Hizmetleri A.S._OpenAI_Claude
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.123.101.241
-  type: ss
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_
-  password: amazonskr05
-  port: 443
-  server: 35.95.35.11
-  type: ss
-- name: US_Council Bluffs_Google LLC_OpenAI_Claude
-  network: ws
-  port: 8443
-  server: 217.163.76.107
-  servername: edgood.889876.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  ws-opts:
-    headers:
-      host: edgood.889876.xyz
-    path: /
-- name: US_Dublin_Amazon.com, Inc._OpenAI_Claude
-  password: telegram-id-directvpn
-  port: 22222
-  server: 3.139.231.141
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_Claude
-  network: ws
-  port: 2082
-  server: 172.64.175.88
-  servername: e1.6929198.xyz
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: e1.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude1
-  network: ws
-  port: 2082
-  server: 162.159.140.91
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude10
-  network: ws
-  port: 2082
-  server: 190.93.247.221
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude11
-  network: ws
-  port: 2082
-  server: 190.93.247.203
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude12
-  network: ws
-  port: 2082
-  server: 190.93.247.23
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude13
-  network: ws
-  port: 2082
-  server: 190.93.246.120
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude14
-  network: ws
-  port: 2082
-  server: 190.93.246.196
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude15
-  network: ws
-  port: 2082
-  server: 190.93.245.16
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude16
-  network: ws
-  port: 2095
-  server: icook.tw
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude17
-  network: ws
-  port: 2095
-  server: ip.sb
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip8.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude18
-  network: ws
-  port: 2082
-  server: 190.93.245.103
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude19
-  network: ws
-  port: 2082
-  server: malaysia.com
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude2
-  network: ws
-  port: 2086
-  server: 104.21.238.38
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
-  ws-opts:
-    headers:
-      host: e4-3.9447609.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude20
-  network: ws
-  port: 2082
-  server: singapore.com
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude21
-  network: ws
-  port: 2095
-  server: singapore.com
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude22
-  network: ws
-  port: 2082
-  server: 190.93.245.174
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude23
-  network: ws
-  port: 2082
-  server: 190.93.245.168
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude24
-  network: ws
-  port: 2095
-  server: malaysia.com
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude25
-  network: ws
-  port: 2082
-  server: icook.tw
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude26
-  network: ws
-  port: 2082
-  server: 190.93.244.33
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude27
-  network: ws
-  port: 2095
-  server: japan.com
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude28
-  network: ws
-  port: 2082
-  server: japan.com
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude29
-  network: ws
-  port: 2082
-  server: ip.sb
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip16.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude3
-  network: ws
-  port: 2082
-  server: fbi.gov
-  servername: ip30.6929198.xyz
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip30.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude30
-  network: ws
-  port: 2095
-  server: russia.com
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude31
-  network: ws
-  port: 2095
-  server: fbi.gov
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip20.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude4
+  name: Other😈github.com/Ruk1ng001_22
   network: ws
   port: 2086
   server: 104.21.238.36
@@ -831,23 +242,357 @@ proxies:
     headers:
       host: e2-3.9447609.xyz
     path: github.com/Alvin9999
+- name: Other😈github.com/Ruk1ng001_23
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 63.32.217.185
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: Other😈github.com/Ruk1ng001_24
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 15.236.7.175
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: Other😈github.com/Ruk1ng001_25
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 18.158.30.72
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: Other😈github.com/Ruk1ng001_26
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 3.74.251.200
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: Other😈github.com/Ruk1ng001_27
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 52.213.81.32
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: Other😈github.com/Ruk1ng001_28
+  password: telegram-id-directvpn
+  port: 22222
+  server: 3.139.231.141
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: Other😈github.com/Ruk1ng001_30
+  password: telegram-id-directvpn
+  port: 22222
+  server: 3.73.20.143
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: Other😈github.com/Ruk1ng001_4
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: 45.87.175.178
+  type: ss
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_6
+  password: amazonskr05
+  port: 443
+  server: 3.112.124.200
+  type: ss
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_7
+  password: amazonskr05
+  port: 443
+  server: 44.242.211.17
+  type: ss
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_8
+  password: amazonskr05
+  port: 443
+  server: 34.219.118.99
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: RU😈github.com/Ruk1ng001_1
+  password: 3MgIhqwp4pjM8SKwixNkYZ
+  port: 33068
+  server: 193.124.22.253
+  type: ss
+- cipher: aes-256-cfb
+  name: RU😈github.com/Ruk1ng001_2
+  password: GA9KzeEgvfxNrgmM
+  port: 9019
+  server: 217.30.10.18
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-亚美尼亚-NF解锁自制剧-ChatGPT-TikTok-YouTube-213.108.22.109:'
+  password: 6OAGLD+DOA6UcFp5Udf0r/UzyjwHV+yheNkoFDk6uL8=
+  port: 38753
+  server: 213.108.22.109
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-亚美尼亚-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-213.108.23.243:'
+  password: J1Wt2rsvFS1AB2BG5ULPGv
+  port: 15584
+  server: 213.108.23.243
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:3
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 54.37.12.70
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-62.210.88.22:'
+  password: fHMmtjH3MuKYWYvGEqQpdH
+  port: 443
+  server: 62.210.88.22
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:1
+  password: pKEW8JPByTVTLtM
+  port: 443
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:2
+  password: g5MeD6Ft3CWlJId
+  port: 5004
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:3
+  password: Y6R9pAtvxxzmGC
+  port: 8888
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:4
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:5
+  password: g5MeD6Ft3CWlJId
+  port: 5003
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
+  password: KixLvKzwjekG00rm
+  port: 5500
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:8
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:9
+  password: kDWvXYZoTBcGkC4
+  port: 8881
+  server: 54.37.18.75
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-波兰-NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.63:'
+  password: d3837224ed465f00
+  port: 57456
+  server: 45.144.48.63
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:'
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.157
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.181:'
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.181
+  type: ss
+- cipher: aes-256-gcm
+  name: 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:'
+  password: zDNVedRFPQexG9v
+  port: 6379
+  server: 15.204.87.217
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
+  password: g5MeD6Ft3CWlJId
+  port: 5003
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:2
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:3
+  password: RexnBgU7EV5ADxG
+  port: 7002
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:4
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:5
+  password: Y6R9pAtvxxzmGC
+  port: 9090
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:6
+  password: KixLvKzwjekG00rm
+  port: 8000
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:7
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:8
+  password: lGqs95QkFHo2NV
+  port: 5499
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:9
+  password: FoOiGlkAA9yPEGP
+  port: 7307
+  server: 15.204.87.225
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-74.50.98.185:'
+  password: Mju3ZSaa4QVk45mc
+  port: 8080
+  server: 74.50.98.185
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:1
+  password: As=Qe0JVvH
+  port: 57263
+  server: 150.241.95.62
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:2
+  password: '&lmOhLJw-0'
+  port: 54314
+  server: 150.241.95.62
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-美国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-150.241.68.171:'
+  password: LcEDAhRkNrjwB16SvN5d7fAmpswtGTAexB1qdzmeFrg=
+  port: 24064
+  server: 150.241.68.171
+  type: ss
+- cipher: aes-256-gcm
+  name: 'SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:'
+  password: iUB0923RBA
+  port: 30067
+  server: 154.3.8.151
+  type: ss
+- cipher: aes-256-gcm
+  name: 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-23.157.40.47:'
+  password: Y6R9pAtvxxzmGC
+  port: 3389
+  server: 23.157.40.47
+  type: ss
+- cipher: aes-256-gcm
+  name: 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-23.157.40.103:'
+  password: KixLvKzwjekG00rm
+  port: 5500
+  server: 23.157.40.103
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-109.120.186.9:'
+  password: s#W0tqg%@N
+  port: 23022
+  server: 109.120.186.9
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:1
+  password: Zgg@X0m515
+  port: 30252
+  server: 176.124.199.255
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:2
+  password: '%-MVa11&zp'
+  port: 19999
+  server: 176.124.199.255
+  type: ss
+- cipher: aes-256-cfb
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.219.118.99:'
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 34.219.118.99
+  type: ssr
+- cipher: aes-256-cfb
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.88.136.187:'
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 35.88.136.187
+  type: ssr
+- cipher: aes-256-cfb
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.242.211.17:'
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 44.242.211.17
+  type: ssr
+- cipher: aes-256-cfb
+  name: 'SSR-美国-NF解锁自制剧-TikTok-YouTube-52.43.67.42:'
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 52.43.67.42
+  type: ssr
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_11
+  password: amazonskr05
+  port: 443
+  server: 34.216.7.165
+  type: ss
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_14
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 44.244.25.243
+  type: ssr
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_15
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 35.89.254.222
+  type: ssr
 - alterId: 0
   cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude5
-  network: ws
-  port: 2086
-  server: 104.21.238.37
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
-  ws-opts:
-    headers:
-      host: e3-3.9447609.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude6
+  name: UM😈github.com/Ruk1ng001_20
   network: ws
   port: 2095
   server: 172.64.167.22
@@ -863,23 +608,7 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude7
-  network: ws
-  port: 2095
-  server: 172.64.167.44
-  servername: c3.6016725.xyz
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: c3.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude8
+  name: UM😈github.com/Ruk1ng001_22
   network: ws
   port: 2095
   server: 172.64.166.28
@@ -895,45 +624,62 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: US_Los Angeles_Psychz Networks_OpenAI_Claude9
+  name: UM😈github.com/Ruk1ng001_24
   network: ws
-  port: 2095
-  server: 172.64.167.29
-  servername: c3.6016725.xyz
-  skip-cert-verify: false
-  tls: false
+  port: 8080
+  server: 104.17.237.149
+  servername: 77744514375675832169113469546324.v2line.net
+  skip-cert-verify: true
   type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  uuid: b224029a-8614-445b-b6f7-7dbad13b0c75
   ws-opts:
     headers:
-      Host: c3.6016725.xyz
-    path: /github.com/Alvin9999
-- cipher: aes-256-gcm
-  name: US_Miami_GTHost_OpenAI_Claude
-  password: zDNVedRFPQexG9v
-  port: 6379
-  server: 38.110.1.46
+      Host: 77744514375675832169113469546324.v2line.net
+    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_4
+  password: amazonskr05
+  port: 443
+  server: 35.89.254.222
   type: ss
 - cipher: aes-256-gcm
-  name: US_Newark_GTHost_OpenAI_Claude1
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 142.202.48.105
+  name: UM😈github.com/Ruk1ng001_5
+  password: kDWvXYZoTBcGkC4
+  port: 8881
+  server: 54.37.12.70
   type: ss
-- cipher: aes-256-gcm
-  name: US_Newark_GTHost_OpenAI_Claude2
-  password: FoOiGlkAA9yPEGP
-  port: 7306
-  server: 142.202.48.105
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_6
+  password: amazonskr05
+  port: 443
+  server: 44.244.24.140
   type: ss
-- cipher: aes-256-gcm
-  name: US_Newark_GTHost_OpenAI_Claude3
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 142.202.48.105
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_7
+  password: amazonskr05
+  port: 443
+  server: 35.95.35.11
   type: ss
-- name: US_Phoenix_Cloudflare, Inc.
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_9
+  password: amazonskr05
+  port: 443
+  server: 54.186.178.129
+  type: ss
+- name: US_b974e_1
+  network: ws
+  port: 443
+  server: 172.66.47.19
+  servername: pardazeshvpn-tg85.pages.dev
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 76434743-2a94-4cfd-8170-8e3971419b36
+  ws-opts:
+    headers:
+      Host: pardazeshvpn-tg85.pages.dev
+    path: '/Telegram:'
+- name: US_b974e_3
   network: ws
   port: 443
   server: 172.66.44.237
@@ -946,82 +692,1593 @@ proxies:
     headers:
       Host: pardazeshvpn-tg85.pages.dev
     path: '/Telegram:'
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._Claude
-  password: amazonskr05
+- name: US_b974e_4
+  password: dfe1ef9b-e590-3b93-816a-e58a908bce99
+  port: 3516
+  server: 103.136.185.28
+  skip-cert-verify: true
+  sni: origin-a.akamaihd.net
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 'VMESS-德国-NF解锁自制剧-TikTok-YouTube-5.39.252.182:'
+  network: ws
+  port: 80
+  server: 5.39.252.182
+  skip-cert-verify: true
+  type: vmess
+  uuid: f2068bc0-5745-4ea0-8719-ca49aff32e57
+  ws-opts:
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 俄罗斯 1
+  network: ws
   port: 443
-  server: 54.191.9.106
-  type: ss
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI
-  password: amazonskr05
+  server: 185.221.160.163
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192
+  ws-opts:
+    headers:
+      Host: worker-mute-bar-1719.nifotok993.workers.dev
+    path: /glweidf.cfd/linkws
+- name: 俄罗斯 2
+  network: ws
   port: 443
-  server: 34.216.7.165
-  type: ss
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude1
-  password: amazonskr05
+  server: 188.42.145.140
+  servername: g1.youyuan.us.kg
+  tls: true
+  type: vless
+  uuid: f3fcb0be-c785-4791-bd88-335dd20f0c1e
+  ws-opts:
+    headers:
+      Host: g1.youyuan.us.kg
+    path: /?proxyip=proxyip.multacom.fxxk.dedyn.iofp=chromefp=chrome
+- alterId: 0
+  cipher: auto
+  name: 加拿大 10
+  network: ws
+  port: 2082
+  server: 104.19.123.11
+  servername: ip19.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip19.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 11
+  network: ws
+  port: 2095
+  server: 104.19.57.4
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 12
+  network: ws
+  port: 2082
+  server: 104.26.5.66
+  servername: ip26.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 15
+  network: ws
+  port: 2082
+  server: 104.26.5.90
+  servername: ip26.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 16
+  network: ws
+  port: 2082
+  server: 104.26.5.67
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 17
+  network: ws
+  port: 2095
+  server: 104.26.0.56
+  servername: ip10.6016725.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip10.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 21
+  network: ws
+  port: 2082
+  server: 104.26.13.31
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 23
+  network: ws
+  port: 2082
+  server: 104.19.42.49
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 24
+  network: ws
+  port: 2082
+  server: 104.18.57.111
+  servername: ip6.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip6.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 26
+  network: ws
+  port: 2082
+  server: 104.16.60.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
+  ws-opts:
+    headers:
+      Host: 7hss-butterfly-d4c3.fijetem432.workers.dev
+    path: /afrhms07.xfixedfloat.cfd/linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 27
+  network: ws
+  port: 2095
+  server: 104.19.45.47
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 3
+  network: ws
+  port: 2082
+  server: japan.com
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip16.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 32
+  network: ws
+  port: 2095
+  server: 104.26.12.31
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip8.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 33
+  network: ws
+  port: 2095
+  server: 104.26.7.132
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 34
+  network: ws
+  port: 2082
+  server: 104.19.59.89
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip6.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 37
+  network: ws
+  port: 2082
+  server: 104.19.45.42
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 38
+  network: ws
+  port: 2082
+  server: 104.19.21.63
+  servername: ip26.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 40
+  network: ws
+  port: 2095
+  server: 104.19.21.63
+  servername: ip18.6016725.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip18.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 43
+  network: ws
+  port: 80
+  server: 104.16.61.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: d396-flower-d396.megare7260.workers.dev
+    path: /obdii.cfd/linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 44
+  network: ws
+  port: 2082
+  server: 104.19.45.15
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 5
+  network: ws
+  port: 2095
+  server: 104.26.5.90
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 50
+  network: ws
+  port: 2082
+  server: 104.26.5.123
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 51
+  network: ws
+  port: 2082
+  server: icook.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 54
+  network: ws
+  port: 2082
+  server: skk.moe
+  servername: ip26.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 55
+  network: ws
+  port: 8080
+  server: 104.16.61.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
+  ws-opts:
+    headers:
+      Host: 6c47-butterfly-6c47.yexoji3749.workers.dev
+    path: /afrhms16v.bestxray.buzz/linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 57
+  network: ws
+  port: 2082
+  server: 104.19.45.50
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 6
+  network: ws
+  port: 2082
+  server: 104.26.12.140
+  servername: ip12.6929198.xyz
+  skip-cert-verify: true
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip12.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 61
+  network: ws
+  port: 2082
+  server: 104.19.45.90
+  skip-cert-verify: true
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 63
+  network: ws
+  port: 2095
+  server: fbi.gov
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 66
+  network: ws
+  port: 2095
+  server: 104.19.38.12
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 67
+  network: ws
+  port: 2095
+  server: 104.16.68.38
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 76221bfb-e92f-4e80-81c5-6fe48f50ac0b
+  ws-opts:
+    headers:
+      Host: worker-lingering-fog-c021.gesofog870.workers.dev
+    path: /glweidf.sbs/linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 68
+  network: ws
+  port: 2095
+  server: icook.tw
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip15.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 70
+  network: ws
+  port: 2095
+  server: 104.17.106.151
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 73
+  network: ws
+  port: 2082
+  server: www.visa.com
+  servername: ip18.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 加拿大 77
+  network: ws
+  port: 80
+  server: 172.67.175.9
+  servername: private-codmhttp.teqqlzdw.workers.dev
+  tls: false
+  type: vless
+  uuid: ea9148b9-13b7-41cf-8911-94234e7c3fcf
+  ws-opts:
+    headers:
+      Host: private-codmhttp.teqqlzdw.workers.dev
+    path: /?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 加拿大 9
+  network: ws
+  port: 2095
+  server: 104.19.45.90
+  servername: ip14.6016725.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip14.6016725.xyz
+    path: /github.com/Alvin9999
+- name: 加拿大+魁北克省蒙特利尔Amazon数据中心
+  network: tcp
+  password: '3648425794742788096'
   port: 443
-  server: 44.244.25.243
-  type: ss
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude2
-  password: amazonskr05
+  server: 35.182.64.76
+  sni: legal-oarfish.squid592.motorcycles
+  type: trojan
+- name: 瑞典+斯德哥尔摩Amazon数据中心
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.49.84.32
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 美国 16
+  network: ws
+  port: 2082
+  server: 172.64.167.10
+  servername: ip18.6929198.xyz
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国 4
+  network: ws
+  port: 2082
+  server: 172.64.198.249
+  servername: ip18.6929198.xyz
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 美国 41
+  network: ws
   port: 443
-  server: 34.219.118.99
-  type: ss
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude3
-  password: amazonskr05
+  server: 104.21.78.221
+  servername: kir-too-kos-o-koon-maman-arzeshi-begoo-jooooooon.pages.dev
+  tls: true
+  type: vless
+  uuid: 79bf326d-93de-494f-a7a1-f9aaa764f86a
+  ws-opts:
+    headers:
+      Host: kir-too-kos-o-koon-maman-arzeshi-begoo-jooooooon.pages.dev
+    path: /
+- alterId: 0
+  cipher: auto
+  name: 美国 6
+  network: ws
+  port: 2095
+  server: 172.64.167.10
+  servername: ip14.6016725.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip14.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国 7
+  network: ws
+  port: 2095
+  server: 104.16.149.244
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国 8
+  network: ws
+  port: 2082
+  server: 172.64.167.22
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare公司CDN节点(shopify)
+  network: ws
+  port: 2095
+  server: 23.227.38.3
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点1
+  network: ws
+  port: 2095
+  server: 104.26.12.140
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip20.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点10
+  network: ws
+  port: 2095
+  server: 172.64.166.20
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip11.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点11
+  network: ws
+  port: 2082
+  server: 190.93.245.103
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点12
+  network: ws
+  port: 2082
+  server: 190.93.246.178
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点13
+  network: ws
+  port: 2082
+  server: 172.64.166.20
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点14
+  network: ws
+  port: 2095
+  server: 162.159.140.45
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点17
+  network: ws
+  port: 2082
+  server: 104.19.47.65
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点18
+  network: ws
+  port: 2095
+  server: www.visa.com
+  servername: ''
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点19
+  network: ws
+  port: 2082
+  server: 104.26.5.145
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点2
+  network: ws
+  port: 2095
+  server: 172.64.198.249
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点20
+  network: ws
+  port: 2082
+  server: 190.93.247.203
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点21
+  network: ws
+  port: 2095
+  server: 172.64.166.16
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点22
+  network: ws
+  port: 2095
+  server: 172.64.166.12
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点23
+  network: ws
+  port: 2082
+  server: 190.93.246.196
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点24
+  network: ws
+  port: 2082
+  server: 104.19.38.12
+  servername: ip26.6929198.xyz
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点26
+  network: ws
+  port: 2082
+  server: 104.19.45.35
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点27
+  network: ws
+  port: 2082
+  server: 162.159.140.33
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点29
+  network: ws
+  port: 2082
+  server: 190.93.245.76
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点3
+  network: ws
+  port: 2082
+  server: 190.93.245.174
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点30
+  network: ws
+  port: 2095
+  server: japan.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点31
+  network: ws
+  port: 2095
+  server: 172.67.30.171
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点32
+  network: ws
+  port: 2082
+  server: 172.64.175.88
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点33
+  network: ws
+  port: 2095
+  server: 104.21.238.100
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点34
+  network: ws
+  port: 2082
+  server: 190.93.245.168
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点35
+  network: ws
+  port: 2095
+  server: 104.22.36.243
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点36
+  network: ws
+  port: 2082
+  server: 190.93.247.170
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点37
+  network: ws
+  port: 2082
+  server: 172.67.70.92
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点38
+  network: ws
+  port: 2082
+  server: 172.64.175.213
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点39
+  network: ws
+  port: 2095
+  server: singapore.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip11.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点4
+  network: ws
+  port: 2082
+  server: 104.17.221.248
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 1c713b69-0abe-3a1e-bf70-b0579ea2f772
+  ws-opts:
+    headers:
+      host: 100-207-132-205.s2.db-link02.top
+    path: /dabai.in172.64.25.37
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点40
+  network: ws
+  port: 2095
+  server: 104.22.37.243
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip15.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点41
+  network: ws
+  port: 2095
+  server: 162.159.140.66
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点5
+  network: ws
+  port: 2095
+  server: 162.159.140.91
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点6
+  network: ws
+  port: 2095
+  server: 104.26.5.67
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点8
+  network: ws
+  port: 2095
+  server: 104.19.45.13
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- cipher: chacha20-ietf-poly1305
+  name: 美国+
+  password: u17T3BvpYaaiuW2c
   port: 443
-  server: 18.236.180.126
-  type: ss
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude4
-  password: amazonskr05
-  port: 443
-  server: 35.88.126.102
-  type: ss
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude5
-  password: amazonskr05
-  port: 443
-  server: 54.186.178.129
-  type: ss
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude6
-  obfs: plain
-  password: amazonskr05
-  port: 443
-  protocol: origin
-  server: 35.94.117.219
-  type: ssr
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude7
-  obfs: plain
-  password: amazonskr05
-  port: 443
-  protocol: origin
-  server: 44.244.25.243
-  type: ssr
-- cipher: aes-256-cfb
-  name: US_Portland_Amazon.com, Inc._OpenAI_Claude8
-  password: amazonskr05
-  port: 443
-  server: 44.243.115.246
+  server: series-a2-mec.varzesh360.co
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: US_Purcellville_American Information Network_OpenAI_Claude
-  password: 5cp9Z3iWnJZ2
+  name: 美国+Amazon数据中心
+  password: mps3FwmDjLrWaOVg
   port: 443
-  server: 205.134.180.150
+  server: series-a2.varzesh360.co
   type: ss
-- cipher: chacha20-ietf
-  name: US_San Jose_PEG TECH INC_OpenAI_Claude
-  password: asd123456
-  port: 8388
-  server: 137.175.113.215
+- cipher: aes-256-gcm
+  name: 美国+V2CROSS.COM
+  password: RexnBgU7EV5ADxG
+  port: 7001
+  server: 216.39.248.133
   type: ss
+- name: 美国+Xerox
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.50.220.26
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- cipher: aes-256-gcm
+  name: 美国+华盛顿Cogent通信公司1
+  password: faBAoD54k87UJG7
+  port: 2375
+  server: 38.86.135.117
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心2
+  password: W74XFALLLuw6m5IA
+  port: 443
+  server: series-a1.samanehha.co
+  type: ss
+- name: 英国 1
+  network: ws
+  port: 443
+  server: 94.247.142.241
+  servername: fq521.6789.cloudns.be
+  tls: true
+  type: vless
+  uuid: 775213ac-3976-439a-8977-3277c0e4735d
+  ws-opts:
+    headers:
+      Host: fq521.6789.cloudns.be
+    path: twitterfreecodessecurity
+- name: 🇦🇺_澳大利亚
+  network: ws
+  port: 443
+  server: 1.1.1.1
+  servername: vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ba7556ea-2e96-4463-a6f2-f2ab3579a653
+  ws-opts:
+    headers:
+      host: vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET
+    path: /iranukiraniukwbpbct.majidcttls.onflashdrive.app/majidct/?ed=2084
+- cipher: chacha20-ietf-poly1305
+  name: 🇨🇦_加拿大_
+  password: f8f7aCzcPKbsF8p3
+  port: 990
+  server: 64.74.163.130
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 🇨🇷_哥斯达黎加_1
+  network: ws
+  port: 2082
+  server: 190.93.247.221
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇨🇷_哥斯达黎加_2
+  network: ws
+  port: 2082
+  server: 190.93.247.23
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇨🇷_哥斯达黎加_3
+  network: ws
+  port: 2082
+  server: 190.93.246.120
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇨🇷_哥斯达黎加_4
+  network: ws
+  port: 2082
+  server: 190.93.247.127
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- cipher: chacha20-ietf-poly1305
+  name: 🇩🇪_DE_德国
+  password: 4a2rfixophdjffa8KVA4Aa
+  port: 8080
+  server: 45.87.175.164
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 🇩🇪_德国_1
+  password: 4a2rfixophdjffa8KVA4Aa
+  port: 8080
+  server: beesyar.org
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 🇩🇪_德国_2
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: beesyar.org
+  type: ss
+- name: 🇩🇪_德国_3
+  network: tcp
+  port: 21155
+  server: 185.227.111.41
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  udp: true
+  uuid: 89e28408-99e9-4348-af10-14071e616b15
+- name: 🇫🇷_法国_
+  network: ws
+  port: 22222
+  server: 15.236.249.215
+  servername: telegram-channel-vlessconfig.sohala.uk
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- name: 🇬🇧_英国_1
+  network: ws
+  port: 22222
+  server: 18.132.117.70
+  servername: telegram-channel-vlessconfig.sohala.uk
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- name: 🇬🇧_英国_2
+  network: ws
+  port: 8443
+  server: 217.163.76.107
+  servername: edgood.889876.xyz
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      host: edgood.889876.xyz
+    path: /?ed=2048
+- name: 🇮🇪_爱尔兰_1
+  network: ws
+  port: 22222
+  server: 52.208.216.216
+  servername: telegram-channel-vlessconfig.sohala.uk
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- name: 🇮🇪_爱尔兰_2
+  network: ws
+  port: 22222
+  server: 63.32.5.141
+  servername: telegram-channel-vlessconfig.sohala.uk
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- cipher: aes-128-cfb
+  name: 🇳🇱_NL_荷兰
+  password: shadowsocks
+  port: 443
+  server: 109.201.152.181
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 🇷🇺_RU_俄罗斯
+  network: http
+  port: 2098
+  server: 147.45.51.16
+  skip-cert-verify: true
+  type: vmess
+  uuid: 83876222-64a4-4912-aa18-b7d9d34959de
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_美国_1
+  network: ws
+  port: 2095
+  server: ip.sb
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip20.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_美国_13
+  network: ws
+  port: 2082
+  server: 190.93.244.228
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 🇺🇸_美国_16
+  network: ws
+  port: 22222
+  server: 3.97.250.127
+  servername: telegram-channel-vlessconfig.sohala.uk
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- name: 🇺🇸_美国_18
+  network: ws
+  port: 8443
+  server: 104.18.13.229
+  servername: pardazeshvpn-tg75.pages.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 68abcacf-4d6c-4b40-a9ff-1b68c9721230
+  ws-opts:
+    headers:
+      host: pardazeshvpn-tg75.pages.dev
+    path: /telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn?ed=2048
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_美国_2
+  network: ws
+  port: 2082
+  server: 190.93.244.33
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 🇺🇸_美国_22
+  network: ws
+  port: 443
+  server: 172.66.47.103
+  servername: PPal03.Pages.dEv
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  ws-opts:
+    headers:
+      host: PPal03.Pages.dEv
+    path: /
+- name: 🇺🇸_美国_23
+  network: ws
+  port: 443
+  server: 104.21.21.147
+  servername: pardazeshvpn-tg44.pages.dev
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 18cb1e84-aec2-44b3-aadd-5d040f47a842
+  ws-opts:
+    headers:
+      host: pardazeshvpn-tg44.pages.dev
+    path: /@vpnhttpinjectorfree
+- name: 🇺🇸_美国_26
+  network: ws
+  port: 22222
+  server: 15.156.180.50
+  servername: telegram-channel-vlessconfig.sohala.uk
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- name: 🇺🇸_美国_28
+  network: ws
+  port: 22222
+  server: 13.42.129.255
+  servername: telegram-channel-vlessconfig.sohala.uk
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
+  ws-opts:
+    headers:
+      host: telegram-channel-vlessconfig.sohala.uk
+    path: /telegram-channel-vlessconfig-ws
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_美国_5
+  network: ws
+  port: 2082
+  server: ip.sb
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip16.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_美国_6
+  network: ws
+  port: 2095
+  server: russia.com
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip11.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_美国_8
+  network: ws
+  port: 2082
+  server: 190.93.245.16
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 🇺🇸_美国_9
+  network: ws
+  port: 2082
+  server: 190.93.244.64
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
 proxy-groups:
 - name: PROXY
   type: select
@@ -1039,107 +2296,213 @@ proxy-groups:
   type: select
   filter: .*
   proxies:
-  - 108.181.24.39_Claude
-  - 108.181.24.39_OpenAI
-  - 108.181.24.39_OpenAI_Claude1
-  - 108.181.24.39_OpenAI_Claude2
-  - 108.181.24.39_OpenAI_Claude3
-  - 108.181.24.39_OpenAI_Claude4
-  - 108.181.24.39_OpenAI_Claude5
-  - 108.181.24.39_OpenAI_Claude6
-  - 108.181.24.39_OpenAI_Claude7
-  - 108.181.24.39_OpenAI_Claude8
-  - 108.181.24.55_OpenAI_Claude
-  - 157.175.154.107_OpenAI
-  - 193.29.139.179_OpenAI_Claude
-  - 3.28.127.173_OpenAI
-  - 3.39.240.246_OpenAI_Claude
-  - 43.202.57.197_Claude
-  - 54.37.12.70_OpenAI
-  - 63.32.217.185_OpenAI_Claude
-  - CA_Toronto_Amazon.com_OpenAI_Claude
-  - DE_Frankfurt am Main_Amazon Technologies Inc.
-  - DE_Frankfurt am Main_Amazon Technologies Inc._Claude
-  - DE_Frankfurt am Main_Amazon.com, Inc._OpenAI
-  - DE_Frankfurt am Main_G-Core Labs S.A._OpenAI_Claude
-  - FR_Paris_Amazon Technologies Inc._OpenAI
-  - FR_Paris_Online S.A.S._OpenAI_Claude
-  - GB_London_Amazon.com_OpenAI1
-  - GB_London_Amazon.com_OpenAI2
-  - IN_Hyderabad_Oracle Corporation
-  - IT_Lombardy_Global Connectivity Solutions LLP_Claude
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude1
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude2
-  - KR_Seoul_Oracle Corporation_OpenAI
-  - LV_Riga_Baxet Group Inc._OpenAI_Claude
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude1
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude2
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude3
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude4
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude5
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude6
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude7
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude8
-  - NL_Rozendaal_NForce Entertainment B.V._OpenAI_Claude
-  - Other😈github.com/Ruk1ng001_
-  - PL_Warsaw_Melbikomas UAB_OpenAI_Claude
-  - SE_Stockholm_Amazon Technologies Inc._OpenAI
-  - SG_Singapore_Amazon Technologies Inc_OpenAI_Claude
-  - SG_Singapore_Amazon.com, Inc._OpenAI_Claude
-  - TR_Istanbul_Iksir Internet Hizmetleri A.S._OpenAI_Claude
-  - UM😈github.com/Ruk1ng001_
-  - US_Council Bluffs_Google LLC_OpenAI_Claude
-  - US_Dublin_Amazon.com, Inc._OpenAI_Claude
-  - US_Los Angeles_Psychz Networks_Claude
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude1
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude10
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude11
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude12
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude13
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude14
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude15
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude16
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude17
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude18
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude19
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude2
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude20
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude21
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude22
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude23
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude24
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude25
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude26
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude27
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude28
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude29
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude3
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude30
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude31
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude4
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude5
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude6
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude7
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude8
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude9
-  - US_Miami_GTHost_OpenAI_Claude
-  - US_Newark_GTHost_OpenAI_Claude1
-  - US_Newark_GTHost_OpenAI_Claude2
-  - US_Newark_GTHost_OpenAI_Claude3
-  - US_Phoenix_Cloudflare, Inc.
-  - US_Portland_Amazon.com, Inc._Claude
-  - US_Portland_Amazon.com, Inc._OpenAI
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude1
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude2
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude3
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude4
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude5
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude6
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude7
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude8
-  - US_Purcellville_American Information Network_OpenAI_Claude
-  - US_San Jose_PEG TECH INC_OpenAI_Claude
+  - Americas😈github.com/Ruk1ng001_2
+  - Asia😈github.com/Ruk1ng001_
+  - Euro😈github.com/Ruk1ng001_1
+  - Euro😈github.com/Ruk1ng001_2
+  - Euro😈github.com/Ruk1ng001_3
+  - Euro😈github.com/Ruk1ng001_4
+  - Euro😈github.com/Ruk1ng001_5
+  - Euro😈github.com/Ruk1ng001_6
+  - Euro😈github.com/Ruk1ng001_7
+  - Other😈github.com/Ruk1ng001_10
+  - Other😈github.com/Ruk1ng001_12
+  - Other😈github.com/Ruk1ng001_14
+  - Other😈github.com/Ruk1ng001_15
+  - Other😈github.com/Ruk1ng001_16
+  - Other😈github.com/Ruk1ng001_17
+  - Other😈github.com/Ruk1ng001_18
+  - Other😈github.com/Ruk1ng001_19
+  - Other😈github.com/Ruk1ng001_2
+  - Other😈github.com/Ruk1ng001_20
+  - Other😈github.com/Ruk1ng001_22
+  - Other😈github.com/Ruk1ng001_23
+  - Other😈github.com/Ruk1ng001_24
+  - Other😈github.com/Ruk1ng001_25
+  - Other😈github.com/Ruk1ng001_26
+  - Other😈github.com/Ruk1ng001_27
+  - Other😈github.com/Ruk1ng001_28
+  - Other😈github.com/Ruk1ng001_30
+  - Other😈github.com/Ruk1ng001_4
+  - Other😈github.com/Ruk1ng001_6
+  - Other😈github.com/Ruk1ng001_7
+  - Other😈github.com/Ruk1ng001_8
+  - RU😈github.com/Ruk1ng001_1
+  - RU😈github.com/Ruk1ng001_2
+  - 'SS-亚美尼亚-NF解锁自制剧-ChatGPT-TikTok-YouTube-213.108.22.109:'
+  - 'SS-亚美尼亚-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-213.108.23.243:'
+  - SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:3
+  - 'SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-62.210.88.22:'
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:1
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:2
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:3
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:4
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:5
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:8
+  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:9
+  - 'SS-波兰-NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.63:'
+  - 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:'
+  - 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.181:'
+  - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:'
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:2
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:3
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:4
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:5
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:6
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:7
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:8
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:9
+  - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-74.50.98.185:'
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:1
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:2
+  - 'SS-美国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-150.241.68.171:'
+  - 'SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:'
+  - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-23.157.40.47:'
+  - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-23.157.40.103:'
+  - 'SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-109.120.186.9:'
+  - SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:1
+  - SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:2
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.219.118.99:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.88.136.187:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.242.211.17:'
+  - 'SSR-美国-NF解锁自制剧-TikTok-YouTube-52.43.67.42:'
+  - UM😈github.com/Ruk1ng001_11
+  - UM😈github.com/Ruk1ng001_14
+  - UM😈github.com/Ruk1ng001_15
+  - UM😈github.com/Ruk1ng001_20
+  - UM😈github.com/Ruk1ng001_22
+  - UM😈github.com/Ruk1ng001_24
+  - UM😈github.com/Ruk1ng001_4
+  - UM😈github.com/Ruk1ng001_5
+  - UM😈github.com/Ruk1ng001_6
+  - UM😈github.com/Ruk1ng001_7
+  - UM😈github.com/Ruk1ng001_9
+  - US_b974e_1
+  - US_b974e_3
+  - US_b974e_4
+  - 'VMESS-德国-NF解锁自制剧-TikTok-YouTube-5.39.252.182:'
+  - 俄罗斯 1
+  - 俄罗斯 2
+  - 加拿大 10
+  - 加拿大 11
+  - 加拿大 12
+  - 加拿大 15
+  - 加拿大 16
+  - 加拿大 17
+  - 加拿大 21
+  - 加拿大 23
+  - 加拿大 24
+  - 加拿大 26
+  - 加拿大 27
+  - 加拿大 3
+  - 加拿大 32
+  - 加拿大 33
+  - 加拿大 34
+  - 加拿大 37
+  - 加拿大 38
+  - 加拿大 40
+  - 加拿大 43
+  - 加拿大 44
+  - 加拿大 5
+  - 加拿大 50
+  - 加拿大 51
+  - 加拿大 54
+  - 加拿大 55
+  - 加拿大 57
+  - 加拿大 6
+  - 加拿大 61
+  - 加拿大 63
+  - 加拿大 66
+  - 加拿大 67
+  - 加拿大 68
+  - 加拿大 70
+  - 加拿大 73
+  - 加拿大 77
+  - 加拿大 9
+  - 加拿大+魁北克省蒙特利尔Amazon数据中心
+  - 瑞典+斯德哥尔摩Amazon数据中心
+  - 美国 16
+  - 美国 4
+  - 美国 41
+  - 美国 6
+  - 美国 7
+  - 美国 8
+  - 美国 CloudFlare公司CDN节点(shopify)
+  - 美国 CloudFlare节点1
+  - 美国 CloudFlare节点10
+  - 美国 CloudFlare节点11
+  - 美国 CloudFlare节点12
+  - 美国 CloudFlare节点13
+  - 美国 CloudFlare节点14
+  - 美国 CloudFlare节点17
+  - 美国 CloudFlare节点18
+  - 美国 CloudFlare节点19
+  - 美国 CloudFlare节点2
+  - 美国 CloudFlare节点20
+  - 美国 CloudFlare节点21
+  - 美国 CloudFlare节点22
+  - 美国 CloudFlare节点23
+  - 美国 CloudFlare节点24
+  - 美国 CloudFlare节点26
+  - 美国 CloudFlare节点27
+  - 美国 CloudFlare节点29
+  - 美国 CloudFlare节点3
+  - 美国 CloudFlare节点30
+  - 美国 CloudFlare节点31
+  - 美国 CloudFlare节点32
+  - 美国 CloudFlare节点33
+  - 美国 CloudFlare节点34
+  - 美国 CloudFlare节点35
+  - 美国 CloudFlare节点36
+  - 美国 CloudFlare节点37
+  - 美国 CloudFlare节点38
+  - 美国 CloudFlare节点39
+  - 美国 CloudFlare节点4
+  - 美国 CloudFlare节点40
+  - 美国 CloudFlare节点41
+  - 美国 CloudFlare节点5
+  - 美国 CloudFlare节点6
+  - 美国 CloudFlare节点8
+  - 美国+
+  - 美国+Amazon数据中心
+  - 美国+V2CROSS.COM
+  - 美国+Xerox
+  - 美国+华盛顿Cogent通信公司1
+  - 美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心2
+  - 英国 1
+  - 🇦🇺_澳大利亚
+  - 🇨🇦_加拿大_
+  - 🇨🇷_哥斯达黎加_1
+  - 🇨🇷_哥斯达黎加_2
+  - 🇨🇷_哥斯达黎加_3
+  - 🇨🇷_哥斯达黎加_4
+  - 🇩🇪_DE_德国
+  - 🇩🇪_德国_1
+  - 🇩🇪_德国_2
+  - 🇩🇪_德国_3
+  - 🇫🇷_法国_
+  - 🇬🇧_英国_1
+  - 🇬🇧_英国_2
+  - 🇮🇪_爱尔兰_1
+  - 🇮🇪_爱尔兰_2
+  - 🇳🇱_NL_荷兰
+  - 🇷🇺_RU_俄罗斯
+  - 🇺🇸_美国_1
+  - 🇺🇸_美国_13
+  - 🇺🇸_美国_16
+  - 🇺🇸_美国_18
+  - 🇺🇸_美国_2
+  - 🇺🇸_美国_22
+  - 🇺🇸_美国_23
+  - 🇺🇸_美国_26
+  - 🇺🇸_美国_28
+  - 🇺🇸_美国_5
+  - 🇺🇸_美国_6
+  - 🇺🇸_美国_8
+  - 🇺🇸_美国_9
 - name: Fallback
   type: fallback
   url: http://www.google.com/generate_204
@@ -1156,7 +2519,7 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - DIRECT
+  - 'SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:'
   filter: (?i)港|HK|HongKong|hong kong
 - name: TW
   type: url-test
@@ -1172,9 +2535,7 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude1
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude2
+  - DIRECT
   filter: (?i)日|东京|大阪|JP|Japan|Tokyo|Osaka|Saitama
 - name: SG
   type: url-test
@@ -1182,8 +2543,7 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - SG_Singapore_Amazon Technologies Inc_OpenAI_Claude
-  - SG_Singapore_Amazon.com, Inc._OpenAI_Claude
+  - DIRECT
   filter: (?i)新|狮城|SG|Singapore
 - name: US
   type: url-test
@@ -1191,57 +2551,94 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - US_Council Bluffs_Google LLC_OpenAI_Claude
-  - US_Dublin_Amazon.com, Inc._OpenAI_Claude
-  - US_Los Angeles_Psychz Networks_Claude
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude1
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude10
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude11
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude12
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude13
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude14
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude15
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude16
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude17
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude18
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude19
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude2
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude20
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude21
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude22
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude23
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude24
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude25
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude26
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude27
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude28
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude29
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude3
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude30
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude31
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude4
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude5
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude6
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude7
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude8
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude9
-  - US_Miami_GTHost_OpenAI_Claude
-  - US_Newark_GTHost_OpenAI_Claude1
-  - US_Newark_GTHost_OpenAI_Claude2
-  - US_Newark_GTHost_OpenAI_Claude3
-  - US_Phoenix_Cloudflare, Inc.
-  - US_Portland_Amazon.com, Inc._Claude
-  - US_Portland_Amazon.com, Inc._OpenAI
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude1
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude2
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude3
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude4
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude5
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude6
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude7
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude8
-  - US_Purcellville_American Information Network_OpenAI_Claude
-  - US_San Jose_PEG TECH INC_OpenAI_Claude
+  - Americas😈github.com/Ruk1ng001_2
+  - 'SS-亚美尼亚-NF解锁自制剧-ChatGPT-TikTok-YouTube-213.108.22.109:'
+  - 'SS-亚美尼亚-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-213.108.23.243:'
+  - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:'
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:2
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:3
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:4
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:5
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:6
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:7
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:8
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:9
+  - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-74.50.98.185:'
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:1
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:2
+  - 'SS-美国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-150.241.68.171:'
+  - 'SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:'
+  - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-23.157.40.47:'
+  - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-23.157.40.103:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.219.118.99:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.88.136.187:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.242.211.17:'
+  - 'SSR-美国-NF解锁自制剧-TikTok-YouTube-52.43.67.42:'
+  - US_b974e_1
+  - US_b974e_3
+  - US_b974e_4
+  - 美国 16
+  - 美国 4
+  - 美国 41
+  - 美国 6
+  - 美国 7
+  - 美国 8
+  - 美国 CloudFlare公司CDN节点(shopify)
+  - 美国 CloudFlare节点1
+  - 美国 CloudFlare节点10
+  - 美国 CloudFlare节点11
+  - 美国 CloudFlare节点12
+  - 美国 CloudFlare节点13
+  - 美国 CloudFlare节点14
+  - 美国 CloudFlare节点17
+  - 美国 CloudFlare节点18
+  - 美国 CloudFlare节点19
+  - 美国 CloudFlare节点2
+  - 美国 CloudFlare节点20
+  - 美国 CloudFlare节点21
+  - 美国 CloudFlare节点22
+  - 美国 CloudFlare节点23
+  - 美国 CloudFlare节点24
+  - 美国 CloudFlare节点26
+  - 美国 CloudFlare节点27
+  - 美国 CloudFlare节点29
+  - 美国 CloudFlare节点3
+  - 美国 CloudFlare节点30
+  - 美国 CloudFlare节点31
+  - 美国 CloudFlare节点32
+  - 美国 CloudFlare节点33
+  - 美国 CloudFlare节点34
+  - 美国 CloudFlare节点35
+  - 美国 CloudFlare节点36
+  - 美国 CloudFlare节点37
+  - 美国 CloudFlare节点38
+  - 美国 CloudFlare节点39
+  - 美国 CloudFlare节点4
+  - 美国 CloudFlare节点40
+  - 美国 CloudFlare节点41
+  - 美国 CloudFlare节点5
+  - 美国 CloudFlare节点6
+  - 美国 CloudFlare节点8
+  - 美国+
+  - 美国+Amazon数据中心
+  - 美国+V2CROSS.COM
+  - 美国+Xerox
+  - 美国+华盛顿Cogent通信公司1
+  - 美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心2
+  - 🇺🇸_美国_1
+  - 🇺🇸_美国_13
+  - 🇺🇸_美国_16
+  - 🇺🇸_美国_18
+  - 🇺🇸_美国_2
+  - 🇺🇸_美国_22
+  - 🇺🇸_美国_23
+  - 🇺🇸_美国_26
+  - 🇺🇸_美国_28
+  - 🇺🇸_美国_5
+  - 🇺🇸_美国_6
+  - 🇺🇸_美国_8
+  - 🇺🇸_美国_9
   filter: (?i)美|洛杉矶|芝加哥|西雅图|America|US|United.*?States
 - name: OpenAI
   type: url-test
@@ -1249,96 +2646,7 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - 108.181.24.39_OpenAI
-  - 108.181.24.39_OpenAI_Claude1
-  - 108.181.24.39_OpenAI_Claude2
-  - 108.181.24.39_OpenAI_Claude3
-  - 108.181.24.39_OpenAI_Claude4
-  - 108.181.24.39_OpenAI_Claude5
-  - 108.181.24.39_OpenAI_Claude6
-  - 108.181.24.39_OpenAI_Claude7
-  - 108.181.24.39_OpenAI_Claude8
-  - 108.181.24.55_OpenAI_Claude
-  - 157.175.154.107_OpenAI
-  - 193.29.139.179_OpenAI_Claude
-  - 3.28.127.173_OpenAI
-  - 3.39.240.246_OpenAI_Claude
-  - 54.37.12.70_OpenAI
-  - 63.32.217.185_OpenAI_Claude
-  - CA_Toronto_Amazon.com_OpenAI_Claude
-  - DE_Frankfurt am Main_Amazon.com, Inc._OpenAI
-  - DE_Frankfurt am Main_G-Core Labs S.A._OpenAI_Claude
-  - FR_Paris_Amazon Technologies Inc._OpenAI
-  - FR_Paris_Online S.A.S._OpenAI_Claude
-  - GB_London_Amazon.com_OpenAI1
-  - GB_London_Amazon.com_OpenAI2
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude1
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude2
-  - KR_Seoul_Oracle Corporation_OpenAI
-  - LV_Riga_Baxet Group Inc._OpenAI_Claude
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude1
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude2
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude3
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude4
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude5
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude6
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude7
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude8
-  - NL_Rozendaal_NForce Entertainment B.V._OpenAI_Claude
-  - PL_Warsaw_Melbikomas UAB_OpenAI_Claude
-  - SE_Stockholm_Amazon Technologies Inc._OpenAI
-  - SG_Singapore_Amazon Technologies Inc_OpenAI_Claude
-  - SG_Singapore_Amazon.com, Inc._OpenAI_Claude
-  - TR_Istanbul_Iksir Internet Hizmetleri A.S._OpenAI_Claude
-  - US_Council Bluffs_Google LLC_OpenAI_Claude
-  - US_Dublin_Amazon.com, Inc._OpenAI_Claude
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude1
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude10
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude11
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude12
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude13
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude14
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude15
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude16
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude17
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude18
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude19
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude2
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude20
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude21
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude22
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude23
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude24
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude25
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude26
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude27
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude28
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude29
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude3
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude30
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude31
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude4
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude5
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude6
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude7
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude8
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude9
-  - US_Miami_GTHost_OpenAI_Claude
-  - US_Newark_GTHost_OpenAI_Claude1
-  - US_Newark_GTHost_OpenAI_Claude2
-  - US_Newark_GTHost_OpenAI_Claude3
-  - US_Portland_Amazon.com, Inc._OpenAI
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude1
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude2
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude3
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude4
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude5
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude6
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude7
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude8
-  - US_Purcellville_American Information Network_OpenAI_Claude
-  - US_San Jose_PEG TECH INC_OpenAI_Claude
+  - PROXY
   filter: (?i)OpenAI
 - name: Claude
   type: url-test
@@ -1346,90 +2654,7 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - 108.181.24.39_Claude
-  - 108.181.24.39_OpenAI_Claude1
-  - 108.181.24.39_OpenAI_Claude2
-  - 108.181.24.39_OpenAI_Claude3
-  - 108.181.24.39_OpenAI_Claude4
-  - 108.181.24.39_OpenAI_Claude5
-  - 108.181.24.39_OpenAI_Claude6
-  - 108.181.24.39_OpenAI_Claude7
-  - 108.181.24.39_OpenAI_Claude8
-  - 108.181.24.55_OpenAI_Claude
-  - 193.29.139.179_OpenAI_Claude
-  - 3.39.240.246_OpenAI_Claude
-  - 43.202.57.197_Claude
-  - 63.32.217.185_OpenAI_Claude
-  - CA_Toronto_Amazon.com_OpenAI_Claude
-  - DE_Frankfurt am Main_Amazon Technologies Inc._Claude
-  - DE_Frankfurt am Main_G-Core Labs S.A._OpenAI_Claude
-  - FR_Paris_Online S.A.S._OpenAI_Claude
-  - IT_Lombardy_Global Connectivity Solutions LLP_Claude
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude1
-  - JP_Tokyo_Amazon Technologies Inc._OpenAI_Claude2
-  - LV_Riga_Baxet Group Inc._OpenAI_Claude
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude1
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude2
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude3
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude4
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude5
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude6
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude7
-  - NL_Amsterdam_Greenhost BV_OpenAI_Claude8
-  - NL_Rozendaal_NForce Entertainment B.V._OpenAI_Claude
-  - PL_Warsaw_Melbikomas UAB_OpenAI_Claude
-  - SG_Singapore_Amazon Technologies Inc_OpenAI_Claude
-  - SG_Singapore_Amazon.com, Inc._OpenAI_Claude
-  - TR_Istanbul_Iksir Internet Hizmetleri A.S._OpenAI_Claude
-  - US_Council Bluffs_Google LLC_OpenAI_Claude
-  - US_Dublin_Amazon.com, Inc._OpenAI_Claude
-  - US_Los Angeles_Psychz Networks_Claude
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude1
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude10
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude11
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude12
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude13
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude14
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude15
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude16
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude17
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude18
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude19
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude2
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude20
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude21
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude22
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude23
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude24
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude25
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude26
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude27
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude28
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude29
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude3
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude30
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude31
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude4
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude5
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude6
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude7
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude8
-  - US_Los Angeles_Psychz Networks_OpenAI_Claude9
-  - US_Miami_GTHost_OpenAI_Claude
-  - US_Newark_GTHost_OpenAI_Claude1
-  - US_Newark_GTHost_OpenAI_Claude2
-  - US_Newark_GTHost_OpenAI_Claude3
-  - US_Portland_Amazon.com, Inc._Claude
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude1
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude2
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude3
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude4
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude5
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude6
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude7
-  - US_Portland_Amazon.com, Inc._OpenAI_Claude8
-  - US_Purcellville_American Information Network_OpenAI_Claude
-  - US_San Jose_PEG TECH INC_OpenAI_Claude
+  - PROXY
   filter: (?i)Claude
 rules:
 - RULE-SET,ads,REJECT
