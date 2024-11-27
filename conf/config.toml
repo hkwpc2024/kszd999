@@ -19,6 +19,7 @@ pools = [
     "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
     "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
     "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
+    "https://raw.githubusercontent.com/hkwpc/kszd7/refs/heads/main/subscribe/clash.yml",
     "https://guanxi.us.kg/guanxi"
 ]
 
