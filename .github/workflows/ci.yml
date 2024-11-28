@@ -1,6 +1,11 @@
 name: ci
 
 on:
+  workflow_dispatch:
+  schedule:
+    - cron: '00 2 * * *'
+
+on:
   push:
     branches: [ "master" ]
   pull_request:
