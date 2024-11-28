@@ -73,114 +73,226 @@ dns:
 proxies:
 - alterId: 0
   cipher: auto
-  name: Americas😈github.com/Ruk1ng001_2
+  name: CA_f1f12_
+  network: ws
+  port: 2095
+  server: 23.227.38.3
+  servername: c3.6016725.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: c3.6016725.xyz
+    path: /github.com/Alvin9999
+- name: CR_f1f12_2
+  network: ws
+  port: 2095
+  server: 190.93.247.155
+  servername: Da8.speedtest.Hopeserver1.tech.
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 1f19c0e8-74b5-4cd9-cc59-a6e6d75af944
+  ws-opts:
+    headers:
+      Host: Da8.speedtest.Hopeserver1.tech.
+    path: /ed=2082
+- name: CR_f1f12_3
+  network: ws
+  port: 2086
+  server: 190.93.244.0
+  servername: workerr.hashdiler.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 636b1684-b26c-4a9c-bc6e-8e1197a36d74
+  ws-opts:
+    headers:
+      Host: workerr.hashdiler.workers.dev
+    path: /
+- name: DE_f1f12_
+  network: tcp
+  port: 8443
+  server: 89.187.169.71
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: 6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_1
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: 45.87.175.157
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_2
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.157
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: Euro😈github.com/Ruk1ng001_3
+  password: oZIoA69Q8yhcQV8ka3Pa3A
+  port: 8080
+  server: 193.29.139.251
+  type: ss
+- name: Euro😈github.com/Ruk1ng001_4
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 63.177.28.130
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: FR_f1f12_
+  network: ws
+  port: 443
+  server: 57.128.184.127
+  servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: 03fcc618-b93d-6796-6aed-8a38c975d581
+  ws-opts:
+    headers:
+      Host: baradiha.com
+    path: /linkvws
+- cipher: chacha20-ietf-poly1305
+  name: FR😈github.com/Ruk1ng001_
+  password: vntxqHhPINXu5Ag6876fXO
+  port: 1080
+  server: 51.195.220.179
+  type: ss
+- name: GB_f1f12_
+  network: ws
+  port: 8443
+  server: 217.163.76.107
+  servername: edgood.889876.xyz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+  ws-opts:
+    headers:
+      Host: edgood.889876.xyz
+    path: /?ed=2048
+- cipher: aes-256-cfb
+  name: Other😈github.com/Ruk1ng001_1
+  password: amazonskr05
+  port: 443
+  server: 3.112.124.200
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_10
   network: ws
   port: 2082
-  server: 104.19.21.230
-  skip-cert-verify: true
+  server: 104.19.47.65
+  servername: e2.6929198.xyz
   tls: false
   type: vmess
   udp: true
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      Host: ip3.6929198.xyz
+      Host: e2.6929198.xyz
     path: github.com/Alvin9999
-- cipher: aes-256-cfb
-  name: Asia😈github.com/Ruk1ng001_
-  password: f8f7aCzcPKbsF8p3
-  port: 989
-  server: 185.123.101.241
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Euro😈github.com/Ruk1ng001_1
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: 45.87.175.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Euro😈github.com/Ruk1ng001_2
-  password: QCXDxuDlTTMD7jtgHUjIoj
-  port: 8080
-  server: beesyar.org
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Euro😈github.com/Ruk1ng001_3
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.157
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Euro😈github.com/Ruk1ng001_4
-  password: 1RWwXhwfAB5gAEozU4G2Pg
-  port: 8080
-  server: 45.87.175.181
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Euro😈github.com/Ruk1ng001_5
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: beesyar.org
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Euro😈github.com/Ruk1ng001_6
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.178
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Euro😈github.com/Ruk1ng001_7
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.181
-  type: ss
-- cipher: aes-256-cfb
-  name: Other😈github.com/Ruk1ng001_10
-  password: amazonskr05
-  port: 443
-  server: 43.202.57.197
-  type: ss
-- cipher: aes-256-cfb
-  name: Other😈github.com/Ruk1ng001_12
-  password: amazonskr05
-  port: 443
-  server: 13.231.108.239
-  type: ss
-- cipher: aes-256-cfb
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_11
+  network: ws
+  port: 2082
+  server: 104.19.38.9
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
   name: Other😈github.com/Ruk1ng001_14
-  password: amazonskr05
-  port: 443
-  server: 35.88.136.187
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: Other😈github.com/Ruk1ng001_15
-  password: 1RWwXhwfAB5gAEozU4G2Pg
-  port: 8080
-  server: 45.87.175.157
-  type: ss
-- cipher: aes-256-cfb
+  network: ws
+  port: 2082
+  server: 172.64.167.29
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
   name: Other😈github.com/Ruk1ng001_16
-  password: amazonskr05
-  port: 443
-  server: 44.244.25.243
-  type: ss
+  network: ws
+  port: 2082
+  server: 190.93.247.127
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: Other😈github.com/Ruk1ng001_17
   network: ws
-  port: 2086
-  server: 104.21.238.38
-  skip-cert-verify: true
+  port: 2082
+  server: 104.19.32.216
+  servername: e2.6929198.xyz
   tls: false
   type: vmess
-  uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      host: e4-3.9447609.xyz
+      Host: e2.6929198.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: Other😈github.com/Ruk1ng001_18
+  name: Other😈github.com/Ruk1ng001_19
+  network: ws
+  port: 2082
+  server: 104.19.21.71
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_20
+  network: ws
+  port: 2082
+  server: 172.64.175.213
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_21
   network: ws
   port: 2086
   server: 104.21.238.37
@@ -190,47 +302,107 @@ proxies:
   uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
   ws-opts:
     headers:
-      host: e3-3.9447609.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: Other😈github.com/Ruk1ng001_19
-  network: ws
-  port: 2082
-  server: fbi.gov
-  servername: ip30.6929198.xyz
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip30.6929198.xyz
-    path: github.com/Alvin9999
-- cipher: aes-256-cfb
-  name: Other😈github.com/Ruk1ng001_2
-  password: amazonskr05
-  port: 443
-  server: 3.39.240.246
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: Other😈github.com/Ruk1ng001_20
-  network: ws
-  port: 2082
-  server: 172.64.166.16
-  servername: ip30.6929198.xyz
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip30.6929198.xyz
+      host: e3-4.9447609.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: Other😈github.com/Ruk1ng001_22
+  network: ws
+  port: 2082
+  server: fbi.gov
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_23
+  network: ws
+  port: 2082
+  server: 172.64.167.8
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- name: Other😈github.com/Ruk1ng001_24
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 3.8.230.30
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_4
+  network: ws
+  port: 2082
+  server: 172.64.99.22
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_5
+  network: ws
+  port: 2082
+  server: 104.19.45.31
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_6
+  network: ws
+  port: 2082
+  server: 172.64.167.5
+  servername: e2.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: e2.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_7
+  network: ws
+  port: 2086
+  server: 104.21.238.38
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
+  ws-opts:
+    headers:
+      host: e4-4.9447609.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: Other😈github.com/Ruk1ng001_8
   network: ws
   port: 2086
   server: 104.21.238.36
@@ -240,86 +412,21 @@ proxies:
   uuid: ee420fda-efb7-48a8-9249-8987e36ebd9e
   ws-opts:
     headers:
-      host: e2-3.9447609.xyz
+      host: e2-4.9447609.xyz
     path: github.com/Alvin9999
-- name: Other😈github.com/Ruk1ng001_23
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 63.32.217.185
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: Other😈github.com/Ruk1ng001_24
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 15.236.7.175
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: Other😈github.com/Ruk1ng001_25
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 18.158.30.72
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: Other😈github.com/Ruk1ng001_26
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 3.74.251.200
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: Other😈github.com/Ruk1ng001_27
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 52.213.81.32
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: Other😈github.com/Ruk1ng001_28
-  password: telegram-id-directvpn
-  port: 22222
-  server: 3.139.231.141
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- name: Other😈github.com/Ruk1ng001_30
-  password: telegram-id-directvpn
-  port: 22222
-  server: 3.73.20.143
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: Other😈github.com/Ruk1ng001_4
-  password: 1RWwXhwfAB5gAEozU4G2Pg
-  port: 8080
-  server: 45.87.175.178
-  type: ss
-- cipher: aes-256-cfb
-  name: Other😈github.com/Ruk1ng001_6
-  password: amazonskr05
-  port: 443
-  server: 3.112.124.200
-  type: ss
-- cipher: aes-256-cfb
-  name: Other😈github.com/Ruk1ng001_7
-  password: amazonskr05
-  port: 443
-  server: 44.242.211.17
-  type: ss
-- cipher: aes-256-cfb
-  name: Other😈github.com/Ruk1ng001_8
-  password: amazonskr05
-  port: 443
-  server: 34.219.118.99
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: RU😈github.com/Ruk1ng001_1
-  password: 3MgIhqwp4pjM8SKwixNkYZ
-  port: 33068
-  server: 193.124.22.253
-  type: ss
-- cipher: aes-256-cfb
-  name: RU😈github.com/Ruk1ng001_2
-  password: GA9KzeEgvfxNrgmM
-  port: 9019
-  server: 217.30.10.18
-  type: ss
+- name: SE_f1f12_2
+  network: ws
+  port: 80
+  server: 185.146.173.58
+  servername: m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f151bde4-6981-4ad9-bd01-dd34ad792a3e
+  ws-opts:
+    headers:
+      Host: m22.6.site.org.ir.com.site.xn--fhq0la447aac5504dea701axr1g.antishop.sbs.
+    path: /Omid?ed=2560
 - cipher: chacha20-ietf-poly1305
   name: 'SS-亚美尼亚-NF解锁自制剧-ChatGPT-TikTok-YouTube-213.108.22.109:'
   password: 6OAGLD+DOA6UcFp5Udf0r/UzyjwHV+yheNkoFDk6uL8=
@@ -333,9 +440,33 @@ proxies:
   server: 213.108.23.243
   type: ss
 - cipher: aes-256-gcm
-  name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:3
+  name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:1
   password: FoOiGlkAA9yPEGP
   port: 7306
+  server: 54.37.12.70
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:2
+  password: kDWvXYZoTBcGkC4
+  port: 8881
+  server: 54.37.12.70
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:3
+  password: PCnnH6SQSnfoS27
+  port: 8090
+  server: 54.37.12.70
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:4
+  password: g5MeD6Ft3CWlJId
+  port: 5003
+  server: 54.37.12.70
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:5
+  password: KixLvKzwjekG00rm
+  port: 8000
   server: 54.37.12.70
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -352,50 +483,44 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:2
-  password: g5MeD6Ft3CWlJId
-  port: 5004
-  server: 54.37.18.75
-  type: ss
-- cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:3
   password: Y6R9pAtvxxzmGC
   port: 8888
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:4
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:3
   password: KixLvKzwjekG00rm
   port: 8080
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:5
-  password: g5MeD6Ft3CWlJId
-  port: 5003
-  server: 54.37.18.75
-  type: ss
-- cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:4
   password: KixLvKzwjekG00rm
   port: 5500
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
-  password: TEzjfAYq2IjtuoS
-  port: 6697
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:5
+  password: kDWvXYZoTBcGkC4
+  port: 8881
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:8
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
+  password: g5MeD6Ft3CWlJId
+  port: 5004
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
   password: RexnBgU7EV5ADxG
   port: 7002
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:9
-  password: kDWvXYZoTBcGkC4
-  port: 8881
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:8
+  password: TEzjfAYq2IjtuoS
+  port: 6697
   server: 54.37.18.75
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -405,10 +530,10 @@ proxies:
   server: 45.144.48.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:'
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: 45.87.175.157
+  name: 'SS-瑞典-NF解锁瑞典自制剧-ChatGPT-TikTok-YouTube-46.246.98.155:'
+  password: UDcjYQ6Z6AIWxViZpqyOmO
+  port: 44013
+  server: 46.246.98.155
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.181:'
@@ -424,20 +549,20 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
-  password: g5MeD6Ft3CWlJId
-  port: 5003
+  password: cdBIDV42DCwnfIN
+  port: 8118
   server: 15.204.87.225
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:2
-  password: PCnnH6SQSnfoS27
-  port: 8090
+  password: Y6R9pAtvxxzmGC
+  port: 9090
   server: 15.204.87.225
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:3
-  password: RexnBgU7EV5ADxG
-  port: 7002
+  password: PCnnH6SQSnfoS27
+  port: 8090
   server: 15.204.87.225
   type: ss
 - cipher: aes-256-gcm
@@ -448,32 +573,32 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:5
-  password: Y6R9pAtvxxzmGC
-  port: 9090
+  password: g5MeD6Ft3CWlJId
+  port: 5003
   server: 15.204.87.225
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:6
-  password: KixLvKzwjekG00rm
-  port: 8000
+  password: RexnBgU7EV5ADxG
+  port: 7002
   server: 15.204.87.225
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:7
-  password: cdBIDV42DCwnfIN
-  port: 8118
-  server: 15.204.87.225
-  type: ss
-- cipher: aes-256-gcm
-  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:8
   password: lGqs95QkFHo2NV
   port: 5499
   server: 15.204.87.225
   type: ss
 - cipher: aes-256-gcm
-  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:9
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:8
   password: FoOiGlkAA9yPEGP
   port: 7307
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:9
+  password: KixLvKzwjekG00rm
+  port: 8000
   server: 15.204.87.225
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -493,6 +618,18 @@ proxies:
   password: '&lmOhLJw-0'
   port: 54314
   server: 150.241.95.62
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:1
+  password: qbY6=zGuFl
+  port: 37774
+  server: 150.241.95.63
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:2
+  password: MDtZ$d1lcz
+  port: 12271
+  server: 150.241.95.63
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 'SS-美国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-150.241.68.171:'
@@ -536,29 +673,37 @@ proxies:
   port: 19999
   server: 176.124.199.255
   type: ss
-- cipher: aes-256-cfb
-  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.219.118.99:'
+- cipher: rc4-md5
+  name: 'SSR-德国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-193.108.119.230:'
   obfs: plain
-  password: amazonskr05
-  port: 443
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
   protocol: origin
-  server: 34.219.118.99
+  server: 193.108.119.230
   type: ssr
 - cipher: aes-256-cfb
-  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.88.136.187:'
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-35.91.205.11:'
   obfs: plain
   password: amazonskr05
   port: 443
   protocol: origin
-  server: 35.88.136.187
+  server: 35.91.205.11
   type: ssr
 - cipher: aes-256-cfb
-  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.242.211.17:'
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.215.160.52:'
   obfs: plain
   password: amazonskr05
   port: 443
   protocol: origin
-  server: 44.242.211.17
+  server: 34.215.160.52
+  type: ssr
+- cipher: aes-256-cfb
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.244.25.243:'
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 44.244.25.243
   type: ssr
 - cipher: aes-256-cfb
   name: 'SSR-美国-NF解锁自制剧-TikTok-YouTube-52.43.67.42:'
@@ -568,31 +713,349 @@ proxies:
   protocol: origin
   server: 52.43.67.42
   type: ssr
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_11
-  password: amazonskr05
-  port: 443
-  server: 34.216.7.165
+- cipher: chacha20-ietf
+  name: 'SSR-美国>塞舌尔-NF解锁自制剧-ChatGPT-TikTok-YouTube-137.175.113.215:'
+  obfs: plain
+  password: asd123456
+  port: 8388
+  protocol: origin
+  server: 137.175.113.215
+  type: ssr
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_10
+  password: kDWvXYZoTBcGkC4
+  port: 8881
+  server: 69.50.95.53
   type: ss
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_14
-  obfs: plain
-  password: amazonskr05
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_11
+  password: zDNVedRFPQexG9v
+  port: 6379
+  server: 69.50.95.53
+  type: ss
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_12
+  password: pKEW8JPByTVTLtM
   port: 443
-  protocol: origin
-  server: 44.244.25.243
-  type: ssr
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_15
-  obfs: plain
-  password: amazonskr05
-  port: 443
-  protocol: origin
-  server: 35.89.254.222
-  type: ssr
+  server: 69.50.95.53
+  type: ss
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_13
+  password: KixLvKzwjekG00rm
+  port: 5500
+  server: 69.50.95.53
+  type: ss
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_16
+  password: Y6R9pAtvxxzmGC
+  port: 3389
+  server: 69.50.95.53
+  type: ss
 - alterId: 0
   cipher: auto
-  name: UM😈github.com/Ruk1ng001_20
+  name: UM😈github.com/Ruk1ng001_22
+  network: ws
+  port: 2082
+  server: 190.93.245.174
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: UM😈github.com/Ruk1ng001_25
+  network: ws
+  port: 2082
+  server: 190.93.245.168
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_3
+  password: amazonskr05
+  port: 443
+  server: 34.215.160.52
+  type: ss
+- cipher: aes-256-cfb
+  name: UM😈github.com/Ruk1ng001_4
+  password: amazonskr05
+  port: 443
+  server: 44.244.25.243
+  type: ss
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_5
+  password: cdBIDV42DCwnfIN
+  port: 8119
+  server: 69.50.95.53
+  type: ss
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_6
+  password: cdBIDV42DCwnfIN
+  port: 8118
+  server: 69.50.95.53
+  type: ss
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_7
+  password: TEzjfAYq2IjtuoS
+  port: 6697
+  server: 69.50.95.53
+  type: ss
+- cipher: aes-256-gcm
+  name: UM😈github.com/Ruk1ng001_9
+  password: lGqs95QkFHo2NV
+  port: 5498
+  server: 69.50.95.53
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: US_f1f12_1
+  network: ws
+  port: 2095
+  server: 104.19.45.19
+  servername: c3.6016725.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: c3.6016725.xyz
+    path: /github.com/Alvin9999
+- name: US_f1f12_10
+  network: ws
+  port: 8880
+  server: 173.245.58.31
+  servername: tel-irn-vpn.irnvpn.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 79a571fb-4fd2-4b87-9876-1b7d9728bb5c
+  ws-opts:
+    headers:
+      Host: tel-irn-vpn.irnvpn.workers.dev
+    path: /?ed=2048
+- name: US_f1f12_11
+  network: ws
+  port: 2095
+  server: 172.67.168.93
+  servername: testdvpnhub69.95f425b718.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 8169cd18-e824-47a4-a4d4-96433b1a519d
+  ws-opts:
+    headers:
+      Host: testdvpnhub69.95f425b718.workers.dev
+    path: /?ed=2048
+- name: US_f1f12_12
+  network: ws
+  port: 8080
+  server: www.ipget.net
+  servername: 201.58vtg99l.workers.dev
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: 4c9541c7-5fa1-403c-84af-175e3b25a27f
+  ws-opts:
+    headers:
+      Host: 201.58vtg99l.workers.dev
+    path: /
+- name: US_f1f12_14
+  network: ws
+  port: 80
+  server: 172.67.2.238
+  servername: worker-flat-block-16c8.academi-vpn-3-13.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: a73a7c3f-de06-457a-979d-30a7e7a19b0b
+  ws-opts:
+    headers:
+      Host: worker-flat-block-16c8.academi-vpn-3-13.workers.dev
+    path: /?ed=2048
+- name: US_f1f12_15
+  network: ws
+  port: 80
+  server: 104.20.18.168
+  servername: worker-flat-block-16c8.academi-vpn-3-13.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: a73a7c3f-de06-457a-979d-30a7e7a19b0b
+  ws-opts:
+    headers:
+      Host: worker-flat-block-16c8.academi-vpn-3-13.workers.dev
+    path: /?ed=2048
+- name: US_f1f12_18
+  network: ws
+  port: 80
+  server: 104.20.19.168
+  servername: worker-floral-sun-5945.miyenep837.workers.DEV
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 5c62b24a-2dfe-49c1-8c93-cc2c35bd4f26
+  ws-opts:
+    headers:
+      Host: worker-floral-sun-5945.miyenep837.workers.DEV
+    path: /vless-ws/?ed=2048
+- alterId: 0
+  cipher: auto
+  name: US_f1f12_2
+  network: ws
+  port: 2095
+  server: 172.64.166.20
+  servername: c3.6016725.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: c3.6016725.xyz
+    path: /github.com/Alvin9999
+- name: US_f1f12_22
+  network: ws
+  port: 80
+  server: 104.21.63.149
+  servername: proxiiraniii.hitido2760.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: fb5cfe95-ee26-4399-be4b-36d648414b9c
+  ws-opts:
+    headers:
+      Host: proxiiraniii.hitido2760.workers.dev
+    path: /
+- name: US_f1f12_29
+  network: ws
+  port: 2052
+  server: 104.18.32.69
+  servername: 21tg.459tj345.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 33039dbe-8889-42f1-9aeb-ecfbfa2a1640
+  ws-opts:
+    headers:
+      Host: 21tg.459tj345.workers.dev
+    path: /?ed=2560
+- alterId: 0
+  cipher: auto
+  name: US_f1f12_3
+  network: ws
+  port: 2095
+  server: 104.19.46.103
+  servername: c3.6016725.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: c3.6016725.xyz
+    path: /github.com/Alvin9999
+- name: US_f1f12_33
+  network: ws
+  port: 8080
+  server: xn--b6gac.eu.org
+  servername: wwwvisacomsg.mshcgb8q.workers.dev
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: 464d644c-9c10-4c02-9117-4c75b0c347cd
+  ws-opts:
+    headers:
+      Host: wwwvisacomsg.mshcgb8q.workers.dev
+    path: /?ed=2048
+- name: US_f1f12_36
+  network: ws
+  port: 8080
+  server: xn--b6gac.eu.org
+  servername: feng2.vfl83lnn.workers.dev
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: 77f2d54c-f1bd-46ff-af4c-cc44c72fd25e
+  ws-opts:
+    headers:
+      Host: feng2.vfl83lnn.workers.dev
+    path: /?ed=2048
+- name: US_f1f12_39
+  network: ws
+  port: 2052
+  server: 104.16.0.35
+  servername: worker-reza2.wbfoppa.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 39d06891-ee89-4316-ae0e-3fcfb9e9714c
+  ws-opts:
+    headers:
+      Host: worker-reza2.wbfoppa.workers.dev
+    path: /TELEGRAM...PROXY_MTM?ed=2048
+- alterId: 0
+  cipher: auto
+  name: US_f1f12_4
+  network: ws
+  port: 2095
+  server: 172.64.198.249
+  servername: c3.6016725.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: c3.6016725.xyz
+    path: /github.com/Alvin9999
+- name: US_f1f12_40
+  network: ws
+  port: 8080
+  server: www.ipget.net
+  servername: bei2.8l-0dfay.workers.dev
+  skip-cert-verify: true
+  tls: false
+  type: vless
+  uuid: b6cea380-cc8c-4e33-ab32-fc4d284ab5db
+  ws-opts:
+    headers:
+      Host: bei2.8l-0dfay.workers.dev
+    path: /?ed=2048
+- name: US_f1f12_43
+  network: ws
+  port: 80
+  server: 188.114.98.217
+  servername: napdg1000072.reneelegitimate.workers.dev
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: d2dce228-e2dc-474f-b189-42daded22ba5
+  ws-opts:
+    headers:
+      Host: napdg1000072.reneelegitimate.workers.dev
+    path: /?ed=2560
+- name: US_f1f12_47
+  password: 24273330-85c9-3a6e-a0fd-58a6076a3a85
+  port: 443
+  server: 34.215.226.60
+  skip-cert-verify: true
+  sni: edge.steam-dns.top.comcast.net
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: US_f1f12_5
   network: ws
   port: 2095
   server: 172.64.167.22
@@ -608,10 +1071,10 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: UM😈github.com/Ruk1ng001_22
+  name: US_f1f12_6
   network: ws
   port: 2095
-  server: 172.64.166.28
+  server: 104.19.45.35
   servername: c3.6016725.xyz
   skip-cert-verify: false
   tls: false
@@ -624,92 +1087,36 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: UM😈github.com/Ruk1ng001_24
+  name: US_f1f12_7
   network: ws
-  port: 8080
-  server: 104.17.237.149
-  servername: 77744514375675832169113469546324.v2line.net
-  skip-cert-verify: true
+  port: 2095
+  server: 172.64.167.25
+  servername: c3.6016725.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
-  uuid: b224029a-8614-445b-b6f7-7dbad13b0c75
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-opts:
     headers:
-      Host: 77744514375675832169113469546324.v2line.net
-    path: /V2LINE-TELEGRAM-CHANNEL-VMESS-WS
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_4
-  password: amazonskr05
-  port: 443
-  server: 35.89.254.222
-  type: ss
-- cipher: aes-256-gcm
-  name: UM😈github.com/Ruk1ng001_5
-  password: kDWvXYZoTBcGkC4
-  port: 8881
-  server: 54.37.12.70
-  type: ss
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_6
-  password: amazonskr05
-  port: 443
-  server: 44.244.24.140
-  type: ss
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_7
-  password: amazonskr05
-  port: 443
-  server: 35.95.35.11
-  type: ss
-- cipher: aes-256-cfb
-  name: UM😈github.com/Ruk1ng001_9
-  password: amazonskr05
-  port: 443
-  server: 54.186.178.129
-  type: ss
-- name: US_b974e_1
-  network: ws
-  port: 443
-  server: 172.66.47.19
-  servername: pardazeshvpn-tg85.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 76434743-2a94-4cfd-8170-8e3971419b36
-  ws-opts:
-    headers:
-      Host: pardazeshvpn-tg85.pages.dev
-    path: '/Telegram:'
-- name: US_b974e_3
-  network: ws
-  port: 443
-  server: 172.66.44.237
-  servername: pardazeshvpn-tg85.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 76434743-2a94-4cfd-8170-8e3971419b36
-  ws-opts:
-    headers:
-      Host: pardazeshvpn-tg85.pages.dev
-    path: '/Telegram:'
-- name: US_b974e_4
-  password: dfe1ef9b-e590-3b93-816a-e58a908bce99
-  port: 3516
-  server: 103.136.185.28
-  skip-cert-verify: true
-  sni: origin-a.akamaihd.net
-  type: trojan
+      Host: c3.6016725.xyz
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-德国-NF解锁自制剧-TikTok-YouTube-5.39.252.182:'
+  name: US_f1f12_8
   network: ws
-  port: 80
-  server: 5.39.252.182
-  skip-cert-verify: true
+  port: 2095
+  server: 172.64.166.33
+  servername: c3.6016725.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
-  uuid: f2068bc0-5745-4ea0-8719-ca49aff32e57
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-opts:
-    path: /
+    headers:
+      Host: c3.6016725.xyz
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: 俄罗斯 1
@@ -741,25 +1148,11 @@ proxies:
   cipher: auto
   name: 加拿大 10
   network: ws
-  port: 2082
-  server: 104.19.123.11
-  servername: ip19.6929198.xyz
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip19.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 11
-  network: ws
   port: 2095
-  server: 104.19.57.4
+  server: 104.26.5.90
   skip-cert-verify: true
   tls: false
   type: vmess
-  udp: true
   uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-opts:
     headers:
@@ -767,119 +1160,47 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 加拿大 12
+  name: 加拿大 13
   network: ws
   port: 2082
-  server: 104.26.5.66
-  servername: ip26.6929198.xyz
+  server: 104.19.45.50
+  tls: false
   type: vmess
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      Host: ip26.6929198.xyz
+      Host: ip3.6929198.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 加拿大 15
+  name: 加拿大 14
   network: ws
   port: 2082
-  server: 104.26.5.90
-  servername: ip26.6929198.xyz
+  server: icook.tw
+  skip-cert-verify: true
+  tls: false
   type: vmess
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      Host: ip26.6929198.xyz
+      Host: ip3.6929198.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: 加拿大 16
   network: ws
   port: 2082
-  server: 104.26.5.67
-  tls: false
+  server: 104.19.21.63
+  servername: ip26.6929198.xyz
   type: vmess
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      Host: ip3.6929198.xyz
+      Host: ip26.6929198.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 加拿大 17
-  network: ws
-  port: 2095
-  server: 104.26.0.56
-  servername: ip10.6016725.xyz
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip10.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 21
-  network: ws
-  port: 2082
-  server: 104.26.13.31
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 23
-  network: ws
-  port: 2082
-  server: 104.19.42.49
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 24
-  network: ws
-  port: 2082
-  server: 104.18.57.111
-  servername: ip6.6929198.xyz
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip6.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 26
-  network: ws
-  port: 2082
-  server: 104.16.60.8
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
-  ws-opts:
-    headers:
-      Host: 7hss-butterfly-d4c3.fijetem432.workers.dev
-    path: /afrhms07.xfixedfloat.cfd/linkws
-- alterId: 0
-  cipher: auto
-  name: 加拿大 27
+  name: 加拿大 19
   network: ws
   port: 2095
   server: 104.19.45.47
@@ -894,35 +1215,48 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 加拿大 3
-  network: ws
-  port: 2082
-  server: japan.com
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip16.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 32
+  name: 加拿大 20
   network: ws
   port: 2095
-  server: 104.26.12.31
-  skip-cert-verify: true
+  server: 104.19.21.63
+  servername: ip18.6016725.xyz
   tls: false
   type: vmess
   udp: true
   uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-opts:
     headers:
-      Host: ip8.6016725.xyz
+      Host: ip18.6016725.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 加拿大 33
+  name: 加拿大 21
+  network: ws
+  port: 2082
+  server: 104.26.5.67
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 25
+  network: ws
+  port: 2082
+  server: 104.18.57.111
+  servername: ip6.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip6.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 27
   network: ws
   port: 2095
   server: 104.26.7.132
@@ -940,133 +1274,7 @@ proxies:
   name: 加拿大 34
   network: ws
   port: 2082
-  server: 104.19.59.89
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip6.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 37
-  network: ws
-  port: 2082
-  server: 104.19.45.42
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 38
-  network: ws
-  port: 2082
-  server: 104.19.21.63
-  servername: ip26.6929198.xyz
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip26.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 40
-  network: ws
-  port: 2095
-  server: 104.19.21.63
-  servername: ip18.6016725.xyz
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip18.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 43
-  network: ws
-  port: 80
-  server: 104.16.61.8
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
-  ws-opts:
-    headers:
-      Host: d396-flower-d396.megare7260.workers.dev
-    path: /obdii.cfd/linkws
-- alterId: 0
-  cipher: auto
-  name: 加拿大 44
-  network: ws
-  port: 2082
-  server: 104.19.45.15
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 5
-  network: ws
-  port: 2095
   server: 104.26.5.90
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 50
-  network: ws
-  port: 2082
-  server: 104.26.5.123
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 51
-  network: ws
-  port: 2082
-  server: icook.tw
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 54
-  network: ws
-  port: 2082
-  server: skk.moe
   servername: ip26.6929198.xyz
   type: vmess
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
@@ -1076,92 +1284,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 加拿大 55
-  network: ws
-  port: 8080
-  server: 104.16.61.8
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: f584de15-2034-4170-a723-f48c2bae5e0f
-  ws-opts:
-    headers:
-      Host: 6c47-butterfly-6c47.yexoji3749.workers.dev
-    path: /afrhms16v.bestxray.buzz/linkws
-- alterId: 0
-  cipher: auto
-  name: 加拿大 57
-  network: ws
-  port: 2082
-  server: 104.19.45.50
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 6
-  network: ws
-  port: 2082
-  server: 104.26.12.140
-  servername: ip12.6929198.xyz
-  skip-cert-verify: true
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip12.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 61
-  network: ws
-  port: 2082
-  server: 104.19.45.90
-  skip-cert-verify: true
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 63
-  network: ws
-  port: 2095
-  server: fbi.gov
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 66
-  network: ws
-  port: 2095
-  server: 104.19.38.12
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 67
+  name: 加拿大 35
   network: ws
   port: 2095
   server: 104.16.68.38
@@ -1176,7 +1299,306 @@ proxies:
     path: /glweidf.sbs/linkws
 - alterId: 0
   cipher: auto
-  name: 加拿大 68
+  name: 加拿大 36
+  network: ws
+  port: 2095
+  server: 104.26.0.56
+  servername: ip10.6016725.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip10.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 37
+  network: ws
+  port: 2082
+  server: www.visa.com
+  servername: ip18.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 39
+  network: ws
+  port: 2082
+  server: 104.19.45.90
+  skip-cert-verify: true
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 42
+  network: ws
+  port: 80
+  server: 104.16.61.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  ws-opts:
+    headers:
+      Host: d396-flower-d396.megare7260.workers.dev
+    path: /obdii.cfd/linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 43
+  network: ws
+  port: 2095
+  server: 104.17.106.151
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 44
+  network: ws
+  port: 2095
+  server: fbi.gov
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 46
+  network: ws
+  port: 2082
+  server: japan.com
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip16.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 47
+  network: ws
+  port: 2082
+  server: 104.26.5.123
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 50
+  network: ws
+  port: 2082
+  server: 104.26.13.31
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 51
+  network: ws
+  port: 2095
+  server: 104.19.38.12
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 52
+  network: ws
+  port: 2082
+  server: 104.26.12.140
+  servername: ip12.6929198.xyz
+  skip-cert-verify: true
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip12.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 54
+  network: ws
+  port: 2082
+  server: 104.19.42.49
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 56
+  network: ws
+  port: 2082
+  server: 104.19.45.42
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 6
+  network: ws
+  port: 2082
+  server: 104.16.60.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a1655f51-1e20-4a92-8a11-b7ca30a7a353
+  ws-opts:
+    headers:
+      Host: 7hss-butterfly-d4c3.fijetem432.workers.dev
+    path: /afrhms07.xfixedfloat.cfd/linkws
+- alterId: 0
+  cipher: auto
+  name: 加拿大 61
+  network: ws
+  port: 2082
+  server: 104.26.5.113
+  servername: ip18.6929198.xyz
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 64
+  network: ws
+  port: 2082
+  server: skk.moe
+  servername: ip26.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 69
+  network: ws
+  port: 2095
+  server: 104.26.12.31
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip8.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 7
+  network: ws
+  port: 2082
+  server: 104.19.59.89
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip6.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 71
+  network: ws
+  port: 2082
+  server: 104.19.45.15
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 72
+  network: ws
+  port: 2095
+  server: 104.19.57.4
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      Host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 73
+  network: ws
+  port: 2082
+  server: 104.26.5.66
+  servername: ip26.6929198.xyz
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip26.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 加拿大 76
   network: ws
   port: 2095
   server: icook.tw
@@ -1191,33 +1613,18 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 加拿大 70
-  network: ws
-  port: 2095
-  server: 104.17.106.151
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      Host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 加拿大 73
+  name: 加拿大 8
   network: ws
   port: 2082
-  server: www.visa.com
-  servername: ip18.6929198.xyz
-  tls: false
+  server: 104.19.123.11
+  servername: ip19.6929198.xyz
   type: vmess
-  udp: true
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      Host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- name: 加拿大 77
+      Host: ip19.6929198.xyz
+    path: github.com/Alvin9999
+- name: 加拿大 88
   network: ws
   port: 80
   server: 172.67.175.9
@@ -1244,22 +1651,84 @@ proxies:
     headers:
       Host: ip14.6016725.xyz
     path: /github.com/Alvin9999
-- name: 加拿大+魁北克省蒙特利尔Amazon数据中心
-  network: tcp
-  password: '3648425794742788096'
-  port: 443
-  server: 35.182.64.76
-  sni: legal-oarfish.squid592.motorcycles
-  type: trojan
+- cipher: aes-256-gcm
+  name: 北美地区+V2CROSS.COM
+  password: faBAoD54k87UJG7
+  port: 2375
+  server: 23.150.152.16
+  type: ss
+- alterId: 0
+  cipher: auto
+  name: 哥斯达黎加_1
+  network: ws
+  port: 2082
+  server: 190.93.247.221
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 哥斯达黎加_2
+  network: ws
+  port: 2082
+  server: 190.93.247.23
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 哥斯达黎加_3
+  network: ws
+  port: 2082
+  server: 190.93.246.120
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 哥斯达黎加_4
+  network: ws
+  port: 2082
+  server: 190.93.246.178
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
 - name: 瑞典+斯德哥尔摩Amazon数据中心
+  network: tcp
   password: telegram-id-privatevpns
   port: 22222
-  server: 13.49.84.32
+  server: 13.49.92.185
   sni: trojan.burgerip.co.uk
   type: trojan
 - alterId: 0
   cipher: auto
-  name: 美国 16
+  name: 美国 10
+  network: ws
+  port: 2082
+  server: 172.64.198.249
+  servername: ip18.6929198.xyz
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      Host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 美国 11
   network: ws
   port: 2082
   server: 172.64.167.10
@@ -1273,33 +1742,7 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 美国 4
-  network: ws
-  port: 2082
-  server: 172.64.198.249
-  servername: ip18.6929198.xyz
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      Host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- name: 美国 41
-  network: ws
-  port: 443
-  server: 104.21.78.221
-  servername: kir-too-kos-o-koon-maman-arzeshi-begoo-jooooooon.pages.dev
-  tls: true
-  type: vless
-  uuid: 79bf326d-93de-494f-a7a1-f9aaa764f86a
-  ws-opts:
-    headers:
-      Host: kir-too-kos-o-koon-maman-arzeshi-begoo-jooooooon.pages.dev
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 美国 6
+  name: 美国 13
   network: ws
   port: 2095
   server: 172.64.167.10
@@ -1314,7 +1757,7 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 美国 7
+  name: 美国 15
   network: ws
   port: 2095
   server: 104.16.149.244
@@ -1329,7 +1772,7 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 美国 8
+  name: 美国 18
   network: ws
   port: 2082
   server: 172.64.167.22
@@ -1340,88 +1783,25 @@ proxies:
     headers:
       Host: ip3.6929198.xyz
     path: github.com/Alvin9999
+- name: 美国 74
+  network: ws
+  port: 443
+  server: 104.21.78.221
+  servername: kir-too-kos-o-koon-maman-arzeshi-begoo-jooooooon.pages.dev
+  tls: true
+  type: vless
+  uuid: 79bf326d-93de-494f-a7a1-f9aaa764f86a
+  ws-opts:
+    headers:
+      Host: kir-too-kos-o-koon-maman-arzeshi-begoo-jooooooon.pages.dev
+    path: /
 - alterId: 0
   cipher: auto
   fingerprint: chrome
   name: 美国 CloudFlare公司CDN节点(shopify)
   network: ws
-  port: 2095
+  port: 2082
   server: 23.227.38.3
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点1
-  network: ws
-  port: 2095
-  server: 104.26.12.140
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip20.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点10
-  network: ws
-  port: 2095
-  server: 172.64.166.20
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip11.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点11
-  network: ws
-  port: 2082
-  server: 190.93.245.103
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点12
-  network: ws
-  port: 2082
-  server: 190.93.246.178
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点13
-  network: ws
-  port: 2082
-  server: 172.64.166.20
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1433,10 +1813,55 @@ proxies:
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点14
+  name: 美国 CloudFlare节点1
   network: ws
   port: 2095
-  server: 162.159.140.45
+  server: 104.19.45.13
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点12
+  network: ws
+  port: 2095
+  server: 104.16.60.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca
+  ws-opts:
+    headers:
+      host: 8eh-band-d994.gijica5932.workers.dev
+    path: /ivideos.sbs/linkws
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点13
+  network: ws
+  port: 2095
+  server: 172.64.166.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点16
+  network: ws
+  port: 2095
+  server: 104.18.57.111
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1451,53 +1876,37 @@ proxies:
   name: 美国 CloudFlare节点17
   network: ws
   port: 2082
-  server: 104.19.47.65
+  server: 190.93.247.203
   skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
   fingerprint: chrome
   name: 美国 CloudFlare节点18
   network: ws
   port: 2095
-  server: www.visa.com
-  servername: ''
+  server: 172.64.166.32
   skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-opts:
     headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点19
-  network: ws
-  port: 2082
-  server: 104.26.5.145
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
+      host: ip11.6016725.xyz
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
   fingerprint: chrome
   name: 美国 CloudFlare节点2
   network: ws
   port: 2095
-  server: 172.64.198.249
+  server: 172.67.71.187
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1511,38 +1920,53 @@ proxies:
   fingerprint: chrome
   name: 美国 CloudFlare节点20
   network: ws
+  port: 2095
+  server: 104.19.123.11
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点21
+  network: ws
   port: 2082
-  server: 190.93.247.203
+  server: 104.26.5.56
   skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点21
-  network: ws
-  port: 2095
-  server: 172.64.166.16
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
+      host: ip3.6929198.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   fingerprint: chrome
   name: 美国 CloudFlare节点22
   network: ws
+  port: 2082
+  server: 172.64.167.35
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip16.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点23
+  network: ws
   port: 2095
-  server: 172.64.166.12
+  server: 104.26.5.112
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1554,7 +1978,22 @@ proxies:
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点23
+  name: 美国 CloudFlare节点25
+  network: ws
+  port: 2082
+  server: 172.64.167.19
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点26
   network: ws
   port: 2082
   server: 190.93.246.196
@@ -1569,26 +2008,70 @@ proxies:
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点24
+  name: 美国 CloudFlare节点27
   network: ws
   port: 2082
-  server: 104.19.38.12
-  servername: ip26.6929198.xyz
+  server: 104.18.32.69
   skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      host: ip26.6929198.xyz
+      host: ip16.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点28
+  network: ws
+  port: 2082
+  server: 104.19.46.103
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip19.6929198.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点26
+  name: 美国 CloudFlare节点3
+  network: ws
+  port: 2095
+  server: 172.64.166.22
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点30
+  network: ws
+  port: 2095
+  server: 104.19.47.65
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip15.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点31
   network: ws
   port: 2082
-  server: 104.19.45.35
+  server: ip.sb
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1600,7 +2083,22 @@ proxies:
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点27
+  name: 美国 CloudFlare节点33
+  network: ws
+  port: 2082
+  server: 104.19.38.12
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点34
   network: ws
   port: 2082
   server: 162.159.140.33
@@ -1615,115 +2113,10 @@ proxies:
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点29
-  network: ws
-  port: 2082
-  server: 190.93.245.76
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点3
-  network: ws
-  port: 2082
-  server: 190.93.245.174
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点30
-  network: ws
-  port: 2095
-  server: japan.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点31
-  network: ws
-  port: 2095
-  server: 172.67.30.171
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点32
-  network: ws
-  port: 2082
-  server: 172.64.175.88
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点33
-  network: ws
-  port: 2095
-  server: 104.21.238.100
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip2.6016725.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点34
-  network: ws
-  port: 2082
-  server: 190.93.245.168
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
   name: 美国 CloudFlare节点35
   network: ws
   port: 2095
-  server: 104.22.36.243
+  server: 172.64.175.88
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1738,6 +2131,51 @@ proxies:
   name: 美国 CloudFlare节点36
   network: ws
   port: 2082
+  server: 104.18.14.19
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点38
+  network: ws
+  port: 2095
+  server: 172.64.167.8
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip11.6016725.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点39
+  network: ws
+  port: 2082
+  server: 172.64.166.20
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点4
+  network: ws
+  port: 2082
   server: 190.93.247.170
   skip-cert-verify: true
   tls: false
@@ -1750,85 +2188,100 @@ proxies:
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点37
-  network: ws
-  port: 2082
-  server: 172.67.70.92
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点38
-  network: ws
-  port: 2082
-  server: 172.64.175.213
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip3.6929198.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点39
-  network: ws
-  port: 2095
-  server: singapore.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip11.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
-  name: 美国 CloudFlare节点4
-  network: ws
-  port: 2082
-  server: 104.17.221.248
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  uuid: 1c713b69-0abe-3a1e-bf70-b0579ea2f772
-  ws-opts:
-    headers:
-      host: 100-207-132-205.s2.db-link02.top
-    path: /dabai.in172.64.25.37
-- alterId: 0
-  cipher: auto
-  fingerprint: chrome
   name: 美国 CloudFlare节点40
   network: ws
+  port: 2082
+  server: 172.64.166.33
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip6.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点42
+  network: ws
   port: 2095
-  server: 104.22.37.243
+  server: www.visa.com
   skip-cert-verify: true
   tls: false
   type: vmess
   uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
   ws-opts:
     headers:
-      host: ip15.6016725.xyz
-    path: /github.com/Alvin9999
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点41
+  name: 美国 CloudFlare节点43
   network: ws
   port: 2095
-  server: 162.159.140.66
+  server: 104.19.55.49
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点44
+  network: ws
+  port: 2095
+  server: 172.67.75.172
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点45
+  network: ws
+  port: 2095
+  server: russia.com
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  ws-opts:
+    headers:
+      host: ip2.6016725.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点46
+  network: ws
+  port: 2082
+  server: 162.159.140.89
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点47
+  network: ws
+  port: 2095
+  server: 104.21.238.100
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1842,15 +2295,15 @@ proxies:
   fingerprint: chrome
   name: 美国 CloudFlare节点5
   network: ws
-  port: 2095
-  server: 162.159.140.91
+  port: 2082
+  server: 104.19.21.230
   skip-cert-verify: true
   tls: false
   type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      host: ip2.6016725.xyz
+      host: ip3.6929198.xyz
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
@@ -1858,7 +2311,7 @@ proxies:
   name: 美国 CloudFlare节点6
   network: ws
   port: 2095
-  server: 104.26.5.67
+  server: 172.64.166.28
   skip-cert-verify: true
   tls: false
   type: vmess
@@ -1870,55 +2323,1078 @@ proxies:
 - alterId: 0
   cipher: auto
   fingerprint: chrome
-  name: 美国 CloudFlare节点8
+  name: 美国 CloudFlare节点7
   network: ws
-  port: 2095
-  server: 104.19.45.13
+  port: 2082
+  server: 104.26.5.88
   skip-cert-verify: true
   tls: false
   type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
   ws-opts:
     headers:
-      host: ip2.6016725.xyz
+      host: ip3.6929198.xyz
     path: github.com/Alvin9999
-- cipher: chacha20-ietf-poly1305
-  name: 美国+
-  password: u17T3BvpYaaiuW2c
-  port: 443
-  server: series-a2-mec.varzesh360.co
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 美国+Amazon数据中心
-  password: mps3FwmDjLrWaOVg
-  port: 443
-  server: series-a2.varzesh360.co
-  type: ss
-- cipher: aes-256-gcm
-  name: 美国+V2CROSS.COM
-  password: RexnBgU7EV5ADxG
-  port: 7001
-  server: 216.39.248.133
-  type: ss
-- name: 美国+Xerox
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点8
+  network: ws
+  port: 2082
+  server: 190.93.245.103
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  fingerprint: chrome
+  name: 美国 CloudFlare节点9
+  network: ws
+  port: 2082
+  server: 104.19.45.35
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip3.6929198.xyz
+    path: github.com/Alvin9999
+- name: 美国+Amazon+EC2服务器
+  network: tcp
+  password: telegram-id-directvpn
+  port: 22222
+  server: 3.99.96.200
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: 美国+Amazon数据中心
   network: tcp
   password: telegram-id-privatevpns
   port: 22222
-  server: 13.50.220.26
+  server: 18.193.207.141
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: 美国+Sprint网络
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 63.176.191.9
   sni: trojan.burgerip.co.uk
   type: trojan
 - cipher: aes-256-gcm
-  name: 美国+华盛顿Cogent通信公司1
-  password: faBAoD54k87UJG7
-  port: 2375
-  server: 38.86.135.117
+  name: 美国+V2CROSS.COM
+  password: zDNVedRFPQexG9v
+  port: 6379
+  server: 69.50.95.179
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心2
-  password: W74XFALLLuw6m5IA
+- name: 美国_106
+  network: ws
+  password: blue2024
   port: 443
-  server: series-a1.samanehha.co
-  type: ss
+  server: 104.18.230.100
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_107
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.203.150
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_11
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.24.237.141
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_113
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.218.79
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_116
+  network: ws
+  password: blue2024
+  port: 443
+  server: 172.67.237.28
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_118
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.153.204
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_122
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.208.66
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_125
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.216.169
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_13
+  network: ws
+  password: blue2024
+  port: 443
+  server: 172.67.133.143
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_132
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.110.24
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_134
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.22.67.211
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_135
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.121.21
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_137
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.135.219
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_139
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.246.20
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_140
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.86.187
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_146
+  network: ws
+  password: blue2024
+  port: 443
+  server: 198.41.208.189
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_149
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.196.26
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_159
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.216.135
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_16
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.117.191
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_163
+  network: ws
+  password: blue2024
+  port: 443
+  server: 172.67.135.252
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_164
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.176.80
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_166
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.211.40
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_168
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.235.40
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_169
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.157.122
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_17
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.49.15
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_174
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.208.241
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_177
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.11.5
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_179
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.36.151
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_180
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.143.199
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_182
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.20.138
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_184
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.165.128
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_185
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.186.43
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_186
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.174.192
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_187
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.21.71.16
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_188
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.70.220
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_190
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.155.92
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_193
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.44.207
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_196
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.233.153
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_197
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.199.255
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_198
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.71.89
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 美国_2
+  network: ws
+  port: 2082
+  server: 190.93.244.64
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 美国_20
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.239.18
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_200
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.149.54
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_202
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.171.44
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_206
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.90.26
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_208
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.243.204
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_209
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.243.10
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_210
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.92.164
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_213
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.150.224
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_214
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.60.199
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_215
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.118.254
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_216
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.229.59
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_218
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.240.154
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_219
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.44.97
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_22
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.16.17
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_221
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.117.208
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_223
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.154.93
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_225
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.60.1
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_226
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.114.140
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_229
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.172.119
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_230
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.158.83
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_233
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.27.192.77
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_234
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.163.43
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_235
+  network: ws
+  password: blue2024
+  port: 443
+  server: 92.60.74.217
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_236
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.127.92
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_237
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.6.78
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_241
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.222.191
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_242
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.235.35
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_244
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.88.163
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_245
+  network: ws
+  password: blue2024
+  port: 443
+  server: 168.100.6.112
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_246
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.145.98
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_247
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.173.13
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_248
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.58.50
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_251
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.146.105
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_254
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.254.194
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_258
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.169.219
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_260
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.84.67
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_261
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.93.219
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_28
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.191.251
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 美国_3
+  network: ws
+  port: 2082
+  server: 190.93.244.33
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 美国_31
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.147.167
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_35
+  network: ws
+  password: blue2024
+  port: 443
+  server: 172.67.230.81
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_38
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.6.205
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_39
+  network: ws
+  password: blue2024
+  port: 443
+  server: 213.241.198.113
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 美国_4
+  network: ws
+  port: 2082
+  server: 190.93.244.228
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 美国_40
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.84.42
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_41
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.237.148
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_43
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.238.246
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_44
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.246.107
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_45
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.183.55
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_46
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.57.207
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_47
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.254.101
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_50
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.33.37
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_51
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.170.217
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_54
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.217.6
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_55
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.236.240
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_57
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.113.121
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_58
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.225.24
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 美国_6
+  network: ws
+  port: 2082
+  server: 190.93.245.76
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 美国_60
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.89.16
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_61
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.127.23
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_67
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.168.73
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- alterId: 0
+  cipher: auto
+  name: 美国_7
+  network: ws
+  port: 2082
+  server: 190.93.245.16
+  type: vmess
+  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
+  ws-opts:
+    headers:
+      host: ip18.6929198.xyz
+    path: /github.com/Alvin9999
+- name: 美国_71
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.147.140
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_74
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.50.31
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_75
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.146.191
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_77
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.255.92
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_78
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.234.198
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_79
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.95.126
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_8
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.39.226
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_80
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.68.189
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_81
+  network: ws
+  password: blue2024
+  port: 443
+  server: 172.67.223.240
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_82
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.209.80
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_83
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.69.126
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_85
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.19.166.7
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_88
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.219.76
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_90
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.48.251
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_91
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.116.100
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_92
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.238.150
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_93
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.169.178
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_94
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.17.179.241
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_98
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.16.178.249
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 美国_99
+  network: ws
+  password: blue2024
+  port: 443
+  server: 104.18.108.137
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
 - name: 英国 1
   network: ws
   port: 443
@@ -1931,74 +3407,22 @@ proxies:
     headers:
       Host: fq521.6789.cloudns.be
     path: twitterfreecodessecurity
-- name: 🇦🇺_澳大利亚
+- name: 香港_2
   network: ws
+  password: blue2024
   port: 443
-  server: 1.1.1.1
-  servername: vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET
+  server: 104.20.25.249
   skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ba7556ea-2e96-4463-a6f2-f2ab3579a653
-  ws-opts:
-    headers:
-      host: vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET
-    path: /iranukiraniukwbpbct.majidcttls.onflashdrive.app/majidct/?ed=2084
-- cipher: chacha20-ietf-poly1305
-  name: 🇨🇦_加拿大_
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 64.74.163.130
-  type: ss
-- alterId: 0
-  cipher: auto
-  name: 🇨🇷_哥斯达黎加_1
+  sni: ha.lii2010.us.kg
+  type: trojan
+- name: 香港_3
   network: ws
-  port: 2082
-  server: 190.93.247.221
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 🇨🇷_哥斯达黎加_2
-  network: ws
-  port: 2082
-  server: 190.93.247.23
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 🇨🇷_哥斯达黎加_3
-  network: ws
-  port: 2082
-  server: 190.93.246.120
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 🇨🇷_哥斯达黎加_4
-  network: ws
-  port: 2082
-  server: 190.93.247.127
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
+  password: blue2024
+  port: 443
+  server: 104.16.130.249
+  skip-cert-verify: true
+  sni: ha.lii2010.us.kg
+  type: trojan
 - cipher: chacha20-ietf-poly1305
   name: 🇩🇪_DE_德国
   password: 4a2rfixophdjffa8KVA4Aa
@@ -2006,96 +3430,11 @@ proxies:
   server: 45.87.175.164
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 🇩🇪_德国_1
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: beesyar.org
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 🇩🇪_德国_2
+  name: 🇩🇪_DE_德国_2
   password: 1RWwXhwfAB5gAEozU4G2Pg
   port: 8080
-  server: beesyar.org
+  server: 45.87.175.178
   type: ss
-- name: 🇩🇪_德国_3
-  network: tcp
-  port: 21155
-  server: 185.227.111.41
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  udp: true
-  uuid: 89e28408-99e9-4348-af10-14071e616b15
-- name: 🇫🇷_法国_
-  network: ws
-  port: 22222
-  server: 15.236.249.215
-  servername: telegram-channel-vlessconfig.sohala.uk
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
-- name: 🇬🇧_英国_1
-  network: ws
-  port: 22222
-  server: 18.132.117.70
-  servername: telegram-channel-vlessconfig.sohala.uk
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
-- name: 🇬🇧_英国_2
-  network: ws
-  port: 8443
-  server: 217.163.76.107
-  servername: edgood.889876.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
-  ws-opts:
-    headers:
-      host: edgood.889876.xyz
-    path: /?ed=2048
-- name: 🇮🇪_爱尔兰_1
-  network: ws
-  port: 22222
-  server: 52.208.216.216
-  servername: telegram-channel-vlessconfig.sohala.uk
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
-- name: 🇮🇪_爱尔兰_2
-  network: ws
-  port: 22222
-  server: 63.32.5.141
-  servername: telegram-channel-vlessconfig.sohala.uk
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
 - cipher: aes-128-cfb
   name: 🇳🇱_NL_荷兰
   password: shadowsocks
@@ -2111,174 +3450,24 @@ proxies:
   skip-cert-verify: true
   type: vmess
   uuid: 83876222-64a4-4912-aa18-b7d9d34959de
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸_美国_1
-  network: ws
-  port: 2095
-  server: ip.sb
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip20.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸_美国_13
-  network: ws
-  port: 2082
-  server: 190.93.244.228
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- name: 🇺🇸_美国_16
-  network: ws
-  port: 22222
-  server: 3.97.250.127
-  servername: telegram-channel-vlessconfig.sohala.uk
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
-- name: 🇺🇸_美国_18
-  network: ws
-  port: 8443
-  server: 104.18.13.229
-  servername: pardazeshvpn-tg75.pages.dev
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 68abcacf-4d6c-4b40-a9ff-1b68c9721230
-  ws-opts:
-    headers:
-      host: pardazeshvpn-tg75.pages.dev
-    path: /telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn-telegram:@pardazeshvpn?ed=2048
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸_美国_2
-  network: ws
-  port: 2082
-  server: 190.93.244.33
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- name: 🇺🇸_美国_22
-  network: ws
+- cipher: aes-256-cfb
+  name: 🇺🇸_US_美国_3
+  password: amazonskr05
   port: 443
-  server: 172.66.47.103
-  servername: PPal03.Pages.dEv
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
-  ws-opts:
-    headers:
-      host: PPal03.Pages.dEv
-    path: /
-- name: 🇺🇸_美国_23
-  network: ws
+  server: 54.191.9.106
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 🇺🇸_US_美国_4
+  password: 5cp9Z3iWnJZ2
   port: 443
-  server: 104.21.21.147
-  servername: pardazeshvpn-tg44.pages.dev
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 18cb1e84-aec2-44b3-aadd-5d040f47a842
-  ws-opts:
-    headers:
-      host: pardazeshvpn-tg44.pages.dev
-    path: /@vpnhttpinjectorfree
-- name: 🇺🇸_美国_26
-  network: ws
-  port: 22222
-  server: 15.156.180.50
-  servername: telegram-channel-vlessconfig.sohala.uk
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
-- name: 🇺🇸_美国_28
-  network: ws
-  port: 22222
-  server: 13.42.129.255
-  servername: telegram-channel-vlessconfig.sohala.uk
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e
-  ws-opts:
-    headers:
-      host: telegram-channel-vlessconfig.sohala.uk
-    path: /telegram-channel-vlessconfig-ws
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸_美国_5
-  network: ws
-  port: 2082
-  server: ip.sb
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip16.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸_美国_6
-  network: ws
-  port: 2095
-  server: russia.com
-  type: vmess
-  uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde
-  ws-opts:
-    headers:
-      host: ip11.6016725.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸_美国_8
-  network: ws
-  port: 2082
-  server: 190.93.245.16
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 🇺🇸_美国_9
-  network: ws
-  port: 2082
-  server: 190.93.244.64
-  type: vmess
-  uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555
-  ws-opts:
-    headers:
-      host: ip18.6929198.xyz
-    path: /github.com/Alvin9999
+  server: 205.134.180.150
+  type: ss
+- cipher: aes-256-gcm
+  name: 🇺🇸_US_美国_6
+  password: faBAoD54k87UJG7
+  port: 2376
+  server: 142.202.48.105
+  type: ss
 proxy-groups:
 - name: PROXY
   type: select
@@ -2296,42 +3485,42 @@ proxy-groups:
   type: select
   filter: .*
   proxies:
-  - Americas😈github.com/Ruk1ng001_2
-  - Asia😈github.com/Ruk1ng001_
+  - CA_f1f12_
+  - CR_f1f12_2
+  - CR_f1f12_3
+  - DE_f1f12_
   - Euro😈github.com/Ruk1ng001_1
   - Euro😈github.com/Ruk1ng001_2
   - Euro😈github.com/Ruk1ng001_3
   - Euro😈github.com/Ruk1ng001_4
-  - Euro😈github.com/Ruk1ng001_5
-  - Euro😈github.com/Ruk1ng001_6
-  - Euro😈github.com/Ruk1ng001_7
+  - FR_f1f12_
+  - FR😈github.com/Ruk1ng001_
+  - GB_f1f12_
+  - Other😈github.com/Ruk1ng001_1
   - Other😈github.com/Ruk1ng001_10
-  - Other😈github.com/Ruk1ng001_12
+  - Other😈github.com/Ruk1ng001_11
   - Other😈github.com/Ruk1ng001_14
-  - Other😈github.com/Ruk1ng001_15
   - Other😈github.com/Ruk1ng001_16
   - Other😈github.com/Ruk1ng001_17
-  - Other😈github.com/Ruk1ng001_18
   - Other😈github.com/Ruk1ng001_19
-  - Other😈github.com/Ruk1ng001_2
   - Other😈github.com/Ruk1ng001_20
+  - Other😈github.com/Ruk1ng001_21
   - Other😈github.com/Ruk1ng001_22
   - Other😈github.com/Ruk1ng001_23
   - Other😈github.com/Ruk1ng001_24
-  - Other😈github.com/Ruk1ng001_25
-  - Other😈github.com/Ruk1ng001_26
-  - Other😈github.com/Ruk1ng001_27
-  - Other😈github.com/Ruk1ng001_28
-  - Other😈github.com/Ruk1ng001_30
   - Other😈github.com/Ruk1ng001_4
+  - Other😈github.com/Ruk1ng001_5
   - Other😈github.com/Ruk1ng001_6
   - Other😈github.com/Ruk1ng001_7
   - Other😈github.com/Ruk1ng001_8
-  - RU😈github.com/Ruk1ng001_1
-  - RU😈github.com/Ruk1ng001_2
+  - SE_f1f12_2
   - 'SS-亚美尼亚-NF解锁自制剧-ChatGPT-TikTok-YouTube-213.108.22.109:'
   - 'SS-亚美尼亚-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-213.108.23.243:'
+  - SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:1
+  - SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:2
   - SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:3
+  - SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:4
+  - SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-54.37.12.70:5
   - 'SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-YouTube-62.210.88.22:'
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:1
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:2
@@ -2341,9 +3530,8 @@ proxy-groups:
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:8
-  - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:9
   - 'SS-波兰-NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.63:'
-  - 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:'
+  - 'SS-瑞典-NF解锁瑞典自制剧-ChatGPT-TikTok-YouTube-46.246.98.155:'
   - 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.181:'
   - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:'
   - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
@@ -2358,6 +3546,8 @@ proxy-groups:
   - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-74.50.98.185:'
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:1
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:2
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:1
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:2
   - 'SS-美国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-150.241.68.171:'
   - 'SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:'
   - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-23.157.40.47:'
@@ -2365,144 +3555,272 @@ proxy-groups:
   - 'SS-英国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-109.120.186.9:'
   - SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:1
   - SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:2
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.219.118.99:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.88.136.187:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.242.211.17:'
+  - 'SSR-德国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-193.108.119.230:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-35.91.205.11:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.215.160.52:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.244.25.243:'
   - 'SSR-美国-NF解锁自制剧-TikTok-YouTube-52.43.67.42:'
+  - 'SSR-美国>塞舌尔-NF解锁自制剧-ChatGPT-TikTok-YouTube-137.175.113.215:'
+  - UM😈github.com/Ruk1ng001_10
   - UM😈github.com/Ruk1ng001_11
-  - UM😈github.com/Ruk1ng001_14
-  - UM😈github.com/Ruk1ng001_15
-  - UM😈github.com/Ruk1ng001_20
+  - UM😈github.com/Ruk1ng001_12
+  - UM😈github.com/Ruk1ng001_13
+  - UM😈github.com/Ruk1ng001_16
   - UM😈github.com/Ruk1ng001_22
-  - UM😈github.com/Ruk1ng001_24
+  - UM😈github.com/Ruk1ng001_25
+  - UM😈github.com/Ruk1ng001_3
   - UM😈github.com/Ruk1ng001_4
   - UM😈github.com/Ruk1ng001_5
   - UM😈github.com/Ruk1ng001_6
   - UM😈github.com/Ruk1ng001_7
   - UM😈github.com/Ruk1ng001_9
-  - US_b974e_1
-  - US_b974e_3
-  - US_b974e_4
-  - 'VMESS-德国-NF解锁自制剧-TikTok-YouTube-5.39.252.182:'
+  - US_f1f12_1
+  - US_f1f12_10
+  - US_f1f12_11
+  - US_f1f12_12
+  - US_f1f12_14
+  - US_f1f12_15
+  - US_f1f12_18
+  - US_f1f12_2
+  - US_f1f12_22
+  - US_f1f12_29
+  - US_f1f12_3
+  - US_f1f12_33
+  - US_f1f12_36
+  - US_f1f12_39
+  - US_f1f12_4
+  - US_f1f12_40
+  - US_f1f12_43
+  - US_f1f12_47
+  - US_f1f12_5
+  - US_f1f12_6
+  - US_f1f12_7
+  - US_f1f12_8
   - 俄罗斯 1
   - 俄罗斯 2
   - 加拿大 10
-  - 加拿大 11
-  - 加拿大 12
-  - 加拿大 15
+  - 加拿大 13
+  - 加拿大 14
   - 加拿大 16
-  - 加拿大 17
+  - 加拿大 19
+  - 加拿大 20
   - 加拿大 21
-  - 加拿大 23
-  - 加拿大 24
-  - 加拿大 26
+  - 加拿大 25
   - 加拿大 27
-  - 加拿大 3
-  - 加拿大 32
-  - 加拿大 33
   - 加拿大 34
+  - 加拿大 35
+  - 加拿大 36
   - 加拿大 37
-  - 加拿大 38
-  - 加拿大 40
+  - 加拿大 39
+  - 加拿大 42
   - 加拿大 43
   - 加拿大 44
-  - 加拿大 5
+  - 加拿大 46
+  - 加拿大 47
   - 加拿大 50
   - 加拿大 51
+  - 加拿大 52
   - 加拿大 54
-  - 加拿大 55
-  - 加拿大 57
+  - 加拿大 56
   - 加拿大 6
   - 加拿大 61
-  - 加拿大 63
-  - 加拿大 66
-  - 加拿大 67
-  - 加拿大 68
-  - 加拿大 70
+  - 加拿大 64
+  - 加拿大 69
+  - 加拿大 7
+  - 加拿大 71
+  - 加拿大 72
   - 加拿大 73
-  - 加拿大 77
+  - 加拿大 76
+  - 加拿大 8
+  - 加拿大 88
   - 加拿大 9
-  - 加拿大+魁北克省蒙特利尔Amazon数据中心
+  - 北美地区+V2CROSS.COM
+  - 哥斯达黎加_1
+  - 哥斯达黎加_2
+  - 哥斯达黎加_3
+  - 哥斯达黎加_4
   - 瑞典+斯德哥尔摩Amazon数据中心
-  - 美国 16
-  - 美国 4
-  - 美国 41
-  - 美国 6
-  - 美国 7
-  - 美国 8
+  - 美国 10
+  - 美国 11
+  - 美国 13
+  - 美国 15
+  - 美国 18
+  - 美国 74
   - 美国 CloudFlare公司CDN节点(shopify)
   - 美国 CloudFlare节点1
-  - 美国 CloudFlare节点10
-  - 美国 CloudFlare节点11
   - 美国 CloudFlare节点12
   - 美国 CloudFlare节点13
-  - 美国 CloudFlare节点14
+  - 美国 CloudFlare节点16
   - 美国 CloudFlare节点17
   - 美国 CloudFlare节点18
-  - 美国 CloudFlare节点19
   - 美国 CloudFlare节点2
   - 美国 CloudFlare节点20
   - 美国 CloudFlare节点21
   - 美国 CloudFlare节点22
   - 美国 CloudFlare节点23
-  - 美国 CloudFlare节点24
+  - 美国 CloudFlare节点25
   - 美国 CloudFlare节点26
   - 美国 CloudFlare节点27
-  - 美国 CloudFlare节点29
+  - 美国 CloudFlare节点28
   - 美国 CloudFlare节点3
   - 美国 CloudFlare节点30
   - 美国 CloudFlare节点31
-  - 美国 CloudFlare节点32
   - 美国 CloudFlare节点33
   - 美国 CloudFlare节点34
   - 美国 CloudFlare节点35
   - 美国 CloudFlare节点36
-  - 美国 CloudFlare节点37
   - 美国 CloudFlare节点38
   - 美国 CloudFlare节点39
   - 美国 CloudFlare节点4
   - 美国 CloudFlare节点40
-  - 美国 CloudFlare节点41
+  - 美国 CloudFlare节点42
+  - 美国 CloudFlare节点43
+  - 美国 CloudFlare节点44
+  - 美国 CloudFlare节点45
+  - 美国 CloudFlare节点46
+  - 美国 CloudFlare节点47
   - 美国 CloudFlare节点5
   - 美国 CloudFlare节点6
+  - 美国 CloudFlare节点7
   - 美国 CloudFlare节点8
-  - 美国+
+  - 美国 CloudFlare节点9
+  - 美国+Amazon+EC2服务器
   - 美国+Amazon数据中心
+  - 美国+Sprint网络
   - 美国+V2CROSS.COM
-  - 美国+Xerox
-  - 美国+华盛顿Cogent通信公司1
-  - 美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心2
+  - 美国_106
+  - 美国_107
+  - 美国_11
+  - 美国_113
+  - 美国_116
+  - 美国_118
+  - 美国_122
+  - 美国_125
+  - 美国_13
+  - 美国_132
+  - 美国_134
+  - 美国_135
+  - 美国_137
+  - 美国_139
+  - 美国_140
+  - 美国_146
+  - 美国_149
+  - 美国_159
+  - 美国_16
+  - 美国_163
+  - 美国_164
+  - 美国_166
+  - 美国_168
+  - 美国_169
+  - 美国_17
+  - 美国_174
+  - 美国_177
+  - 美国_179
+  - 美国_180
+  - 美国_182
+  - 美国_184
+  - 美国_185
+  - 美国_186
+  - 美国_187
+  - 美国_188
+  - 美国_190
+  - 美国_193
+  - 美国_196
+  - 美国_197
+  - 美国_198
+  - 美国_2
+  - 美国_20
+  - 美国_200
+  - 美国_202
+  - 美国_206
+  - 美国_208
+  - 美国_209
+  - 美国_210
+  - 美国_213
+  - 美国_214
+  - 美国_215
+  - 美国_216
+  - 美国_218
+  - 美国_219
+  - 美国_22
+  - 美国_221
+  - 美国_223
+  - 美国_225
+  - 美国_226
+  - 美国_229
+  - 美国_230
+  - 美国_233
+  - 美国_234
+  - 美国_235
+  - 美国_236
+  - 美国_237
+  - 美国_241
+  - 美国_242
+  - 美国_244
+  - 美国_245
+  - 美国_246
+  - 美国_247
+  - 美国_248
+  - 美国_251
+  - 美国_254
+  - 美国_258
+  - 美国_260
+  - 美国_261
+  - 美国_28
+  - 美国_3
+  - 美国_31
+  - 美国_35
+  - 美国_38
+  - 美国_39
+  - 美国_4
+  - 美国_40
+  - 美国_41
+  - 美国_43
+  - 美国_44
+  - 美国_45
+  - 美国_46
+  - 美国_47
+  - 美国_50
+  - 美国_51
+  - 美国_54
+  - 美国_55
+  - 美国_57
+  - 美国_58
+  - 美国_6
+  - 美国_60
+  - 美国_61
+  - 美国_67
+  - 美国_7
+  - 美国_71
+  - 美国_74
+  - 美国_75
+  - 美国_77
+  - 美国_78
+  - 美国_79
+  - 美国_8
+  - 美国_80
+  - 美国_81
+  - 美国_82
+  - 美国_83
+  - 美国_85
+  - 美国_88
+  - 美国_90
+  - 美国_91
+  - 美国_92
+  - 美国_93
+  - 美国_94
+  - 美国_98
+  - 美国_99
   - 英国 1
-  - 🇦🇺_澳大利亚
-  - 🇨🇦_加拿大_
-  - 🇨🇷_哥斯达黎加_1
-  - 🇨🇷_哥斯达黎加_2
-  - 🇨🇷_哥斯达黎加_3
-  - 🇨🇷_哥斯达黎加_4
+  - 香港_2
+  - 香港_3
   - 🇩🇪_DE_德国
-  - 🇩🇪_德国_1
-  - 🇩🇪_德国_2
-  - 🇩🇪_德国_3
-  - 🇫🇷_法国_
-  - 🇬🇧_英国_1
-  - 🇬🇧_英国_2
-  - 🇮🇪_爱尔兰_1
-  - 🇮🇪_爱尔兰_2
+  - 🇩🇪_DE_德国_2
   - 🇳🇱_NL_荷兰
   - 🇷🇺_RU_俄罗斯
-  - 🇺🇸_美国_1
-  - 🇺🇸_美国_13
-  - 🇺🇸_美国_16
-  - 🇺🇸_美国_18
-  - 🇺🇸_美国_2
-  - 🇺🇸_美国_22
-  - 🇺🇸_美国_23
-  - 🇺🇸_美国_26
-  - 🇺🇸_美国_28
-  - 🇺🇸_美国_5
-  - 🇺🇸_美国_6
-  - 🇺🇸_美国_8
-  - 🇺🇸_美国_9
+  - 🇺🇸_US_美国_3
+  - 🇺🇸_US_美国_4
+  - 🇺🇸_US_美国_6
 - name: Fallback
   type: fallback
   url: http://www.google.com/generate_204
@@ -2520,6 +3838,8 @@ proxy-groups:
   tolerance: 500
   proxies:
   - 'SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:'
+  - 香港_2
+  - 香港_3
   filter: (?i)港|HK|HongKong|hong kong
 - name: TW
   type: url-test
@@ -2551,7 +3871,6 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - Americas😈github.com/Ruk1ng001_2
   - 'SS-亚美尼亚-NF解锁自制剧-ChatGPT-TikTok-YouTube-213.108.22.109:'
   - 'SS-亚美尼亚-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-213.108.23.243:'
   - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.217:'
@@ -2567,78 +3886,214 @@ proxy-groups:
   - 'SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-74.50.98.185:'
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:1
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:2
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:1
+  - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:2
   - 'SS-美国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-150.241.68.171:'
   - 'SS-美国-NF解锁香港自制剧-ChatGPT-TikTok-YouTube-154.3.8.151:'
   - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-23.157.40.47:'
   - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-23.157.40.103:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.219.118.99:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-35.88.136.187:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.242.211.17:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-35.91.205.11:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-34.215.160.52:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-44.244.25.243:'
   - 'SSR-美国-NF解锁自制剧-TikTok-YouTube-52.43.67.42:'
-  - US_b974e_1
-  - US_b974e_3
-  - US_b974e_4
-  - 美国 16
-  - 美国 4
-  - 美国 41
-  - 美国 6
-  - 美国 7
-  - 美国 8
+  - 'SSR-美国>塞舌尔-NF解锁自制剧-ChatGPT-TikTok-YouTube-137.175.113.215:'
+  - US_f1f12_1
+  - US_f1f12_10
+  - US_f1f12_11
+  - US_f1f12_12
+  - US_f1f12_14
+  - US_f1f12_15
+  - US_f1f12_18
+  - US_f1f12_2
+  - US_f1f12_22
+  - US_f1f12_29
+  - US_f1f12_3
+  - US_f1f12_33
+  - US_f1f12_36
+  - US_f1f12_39
+  - US_f1f12_4
+  - US_f1f12_40
+  - US_f1f12_43
+  - US_f1f12_47
+  - US_f1f12_5
+  - US_f1f12_6
+  - US_f1f12_7
+  - US_f1f12_8
+  - 北美地区+V2CROSS.COM
+  - 美国 10
+  - 美国 11
+  - 美国 13
+  - 美国 15
+  - 美国 18
+  - 美国 74
   - 美国 CloudFlare公司CDN节点(shopify)
   - 美国 CloudFlare节点1
-  - 美国 CloudFlare节点10
-  - 美国 CloudFlare节点11
   - 美国 CloudFlare节点12
   - 美国 CloudFlare节点13
-  - 美国 CloudFlare节点14
+  - 美国 CloudFlare节点16
   - 美国 CloudFlare节点17
   - 美国 CloudFlare节点18
-  - 美国 CloudFlare节点19
   - 美国 CloudFlare节点2
   - 美国 CloudFlare节点20
   - 美国 CloudFlare节点21
   - 美国 CloudFlare节点22
   - 美国 CloudFlare节点23
-  - 美国 CloudFlare节点24
+  - 美国 CloudFlare节点25
   - 美国 CloudFlare节点26
   - 美国 CloudFlare节点27
-  - 美国 CloudFlare节点29
+  - 美国 CloudFlare节点28
   - 美国 CloudFlare节点3
   - 美国 CloudFlare节点30
   - 美国 CloudFlare节点31
-  - 美国 CloudFlare节点32
   - 美国 CloudFlare节点33
   - 美国 CloudFlare节点34
   - 美国 CloudFlare节点35
   - 美国 CloudFlare节点36
-  - 美国 CloudFlare节点37
   - 美国 CloudFlare节点38
   - 美国 CloudFlare节点39
   - 美国 CloudFlare节点4
   - 美国 CloudFlare节点40
-  - 美国 CloudFlare节点41
+  - 美国 CloudFlare节点42
+  - 美国 CloudFlare节点43
+  - 美国 CloudFlare节点44
+  - 美国 CloudFlare节点45
+  - 美国 CloudFlare节点46
+  - 美国 CloudFlare节点47
   - 美国 CloudFlare节点5
   - 美国 CloudFlare节点6
+  - 美国 CloudFlare节点7
   - 美国 CloudFlare节点8
-  - 美国+
+  - 美国 CloudFlare节点9
+  - 美国+Amazon+EC2服务器
   - 美国+Amazon数据中心
+  - 美国+Sprint网络
   - 美国+V2CROSS.COM
-  - 美国+Xerox
-  - 美国+华盛顿Cogent通信公司1
-  - 美国+华盛顿州西雅图市亚马逊(Amazon)公司数据中心2
-  - 🇺🇸_美国_1
-  - 🇺🇸_美国_13
-  - 🇺🇸_美国_16
-  - 🇺🇸_美国_18
-  - 🇺🇸_美国_2
-  - 🇺🇸_美国_22
-  - 🇺🇸_美国_23
-  - 🇺🇸_美国_26
-  - 🇺🇸_美国_28
-  - 🇺🇸_美国_5
-  - 🇺🇸_美国_6
-  - 🇺🇸_美国_8
-  - 🇺🇸_美国_9
+  - 美国_106
+  - 美国_107
+  - 美国_11
+  - 美国_113
+  - 美国_116
+  - 美国_118
+  - 美国_122
+  - 美国_125
+  - 美国_13
+  - 美国_132
+  - 美国_134
+  - 美国_135
+  - 美国_137
+  - 美国_139
+  - 美国_140
+  - 美国_146
+  - 美国_149
+  - 美国_159
+  - 美国_16
+  - 美国_163
+  - 美国_164
+  - 美国_166
+  - 美国_168
+  - 美国_169
+  - 美国_17
+  - 美国_174
+  - 美国_177
+  - 美国_179
+  - 美国_180
+  - 美国_182
+  - 美国_184
+  - 美国_185
+  - 美国_186
+  - 美国_187
+  - 美国_188
+  - 美国_190
+  - 美国_193
+  - 美国_196
+  - 美国_197
+  - 美国_198
+  - 美国_2
+  - 美国_20
+  - 美国_200
+  - 美国_202
+  - 美国_206
+  - 美国_208
+  - 美国_209
+  - 美国_210
+  - 美国_213
+  - 美国_214
+  - 美国_215
+  - 美国_216
+  - 美国_218
+  - 美国_219
+  - 美国_22
+  - 美国_221
+  - 美国_223
+  - 美国_225
+  - 美国_226
+  - 美国_229
+  - 美国_230
+  - 美国_233
+  - 美国_234
+  - 美国_235
+  - 美国_236
+  - 美国_237
+  - 美国_241
+  - 美国_242
+  - 美国_244
+  - 美国_245
+  - 美国_246
+  - 美国_247
+  - 美国_248
+  - 美国_251
+  - 美国_254
+  - 美国_258
+  - 美国_260
+  - 美国_261
+  - 美国_28
+  - 美国_3
+  - 美国_31
+  - 美国_35
+  - 美国_38
+  - 美国_39
+  - 美国_4
+  - 美国_40
+  - 美国_41
+  - 美国_43
+  - 美国_44
+  - 美国_45
+  - 美国_46
+  - 美国_47
+  - 美国_50
+  - 美国_51
+  - 美国_54
+  - 美国_55
+  - 美国_57
+  - 美国_58
+  - 美国_6
+  - 美国_60
+  - 美国_61
+  - 美国_67
+  - 美国_7
+  - 美国_71
+  - 美国_74
+  - 美国_75
+  - 美国_77
+  - 美国_78
+  - 美国_79
+  - 美国_8
+  - 美国_80
+  - 美国_81
+  - 美国_82
+  - 美国_83
+  - 美国_85
+  - 美国_88
+  - 美国_90
+  - 美国_91
+  - 美国_92
+  - 美国_93
+  - 美国_94
+  - 美国_98
+  - 美国_99
+  - 🇺🇸_US_美国_3
+  - 🇺🇸_US_美国_4
+  - 🇺🇸_US_美国_6
   filter: (?i)美|洛杉矶|芝加哥|西雅图|America|US|United.*?States
 - name: OpenAI
   type: url-test
