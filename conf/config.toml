@@ -8,6 +8,8 @@ fast_mode = true
 subs = [
    "https://raw.githubusercontent.com/hkwpc/kszd8/refs/heads/main/clash/clash.provider.yaml",
    "https://raw.githubusercontent.com/hkwpc/kszd6/refs/heads/main/clash.yaml",
+   "https://raw.githubusercontent.com/hkwpc/kszd9/refs/heads/master/all",
+   "https://raw.githubusercontent.com/hkwpc/kszd5/refs/heads/master/list.yml",
    "https://raw.githubusercontent.com/hkwpc/kszd2/refs/heads/main/sub"
 ]
 
