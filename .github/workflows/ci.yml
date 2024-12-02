@@ -5,9 +5,9 @@ on:
     branches: [ "bach" ]
   pull_request:
     branches: [ "bach" ]
-    schedule:
-        - cron: "30 0 * * *"
-    workflow_dispatch:
+  workflow_dispatch:
+  schedule:
+      - cron: "30 1 * * *"
 
 env:
   CARGO_TERM_COLOR: always
